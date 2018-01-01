@@ -190,6 +190,11 @@ namespace DPP_Guess_Teammates
                 for(int j = i + 1; j < mons.Length; j++)
                 {
                     string otherMon = mons[j];
+                    if (!encounterTwice[mon].ContainsKey(otherMon))
+                    {
+                        Console.WriteLine("The input was incorrect on " + otherMon + "!");
+                        return;
+                    }
                     Dictionary<string, int> encounterTwiceDict = encounterTwice[mon][otherMon];
                     probabilites[otherMon] = 0.0;
                     Pokemon otherPokemon = monDict[otherMon];
