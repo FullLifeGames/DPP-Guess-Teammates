@@ -1,0 +1,10222 @@
+=== [gen4ou] Untitled 1301 ===
+
+(๑•ิཬ•ั๑) (Machamp) (M) @ Lum Berry  
+Ability: No Guard  
+Shiny: Yes  
+EVs: 120 HP / 228 Atk / 160 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Ice Punch  
+- Bullet Punch  
+- Payback  
+
+(ृ　ु*`ω´)ु (Heatran) (M) @ Passho Berry  
+Ability: Flash Fire  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Stealth Rock  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Electric]  
+
+((╬ಠิ﹏ಠิ)) (Dragonite) (F) @ Life Orb  
+Ability: Inner Focus  
+Shiny: Yes  
+EVs: 20 Atk / 236 SpA / 252 Spe  
+Hasty Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Extreme Speed  
+
+─(｡ìдí｡)─ (Tyranitar) (F) @ Shuca Berry  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Stone Edge  
+- Ice Punch  
+
+<!– {{(>_<)}} –> (Rotom-Wash) @ Life Orb  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 16 HP / 240 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Substitute  
+- Pain Split  
+
+└(○｀ε´○)┘ (Scizor) (M) @ Choice Scarf  
+Ability: Technician  
+Shiny: Yes  
+EVs: 8 HP / 252 Atk / 248 Spe  
+Jolly Nature  
+- U-turn  
+- Superpower  
+- Bullet Punch  
+- Pursuit  
+
+
+=== [gen4ou] Untitled 1300 ===
+
+(◕‿◕✿) (Flygon) @ Choice Scarf  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+
+(◕ㅁ◕✿) (Starmie) @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+(◕▿◕✿) (Heatran) @ Leftovers  
+Ability: Flash Fire  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Substitute  
+- Will-O-Wisp  
+- Taunt  
+
+✾◕ ‿ ◕✾ (Blissey) @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Soft-Boiled  
+- Toxic  
+- Soft-Boiled  
+- Stealth Rock  
+
+(◕⍸ ◕✿) (Gyarados) @ Leftovers  
+Ability: Intimidate  
+Shiny: Yes  
+EVs: 152 HP / 56 Atk / 88 Def / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Taunt  
+- Waterfall  
+- Stone Edge  
+
+(ʘ‿ʘ✿) (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Ice Punch  
+- Fire Punch  
+
+
+=== [gen4ou] Untitled 1299 ===
+
+(^ц^ ) (Tyranitar) @ Focus Sash  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Fire Blast  
+- Superpower  
+- Hidden Power [Grass]  
+
+(*・艸・) (Jirachi) @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Psychic  
+- Grass Knot  
+- Icy Wind  
+
+( ╹ਊ╹) (Flygon) @ Choice Band  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Outrage  
+- Stone Edge  
+
+( ՞ਊ՞) (Infernape) @ Choice Scarf  
+Ability: Blaze  
+Shiny: Yes  
+EVs: 64 Atk / 252 SpA / 192 Spe  
+Naive Nature  
+- Fire Blast  
+- Close Combat  
+- Stone Edge  
+- U-turn  
+
+（⌒▽⌒） (Gyarados) @ Leftovers  
+Ability: Intimidate  
+Shiny: Yes  
+EVs: 156 HP / 72 Atk / 96 Def / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Taunt  
+- Waterfall  
+- Stone Edge  
+
+（＾ｖ＾） (Bronzong) @ Macho Brace  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 1 Spe  
+- Trick Room  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+
+
+=== [gen4ou] Team of great Mons ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 16 HP / 252 SpA / 240 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- U-turn  
+- Roost  
+
+Tyranitar @ Passho Berry  
+Ability: Sand Stream  
+EVs: 48 HP / 104 Atk / 40 SpA / 68 SpD / 248 Spe  
+Lonely Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Superpower  
+
+Gengar (M) @ Life Orb  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Explosion  
+- Focus Blast  
+- Shadow Ball  
+- Hidden Power [Fire]  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Spore  
+- Mach Punch  
+- Seed Bomb  
+- Superpower  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 32 HP / 248 SpA / 228 Spe  
+Modest Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] Untitled 962 ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Skarmory (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Stealth Rock  
+- Spikes  
+- Roost  
+- Whirlwind  
+
+Tyranitar (F) @ Choice Band  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Stone Edge  
+- Superpower  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+Rotom (Rotom-Wash) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hydro Pump  
+- Trick  
+
+Metagross @ Life Orb  
+Ability: Clear Body  
+EVs: 56 HP / 252 Atk / 200 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Zen Headbutt  
+- Earthquake  
+- Agility  
+
+
+=== [gen4ou] Untitled 565 ===
+
+Celebi @ Occa Berry  
+Ability: Natural Cure  
+EVs: 32 HP / 4 Def / 252 SpA / 220 Spe  
+Timid Nature  
+- Leaf Storm  
+- Earth Power  
+- Stealth Rock  
+- U-turn  
+
+Infernape @ Life Orb  
+Ability: Blaze  
+EVs: 64 Atk / 252 SpA / 192 Spe  
+Naive Nature  
+- Fire Blast  
+- Mach Punch  
+- Grass Knot  
+- Close Combat  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 28 Def / 96 SpA / 136 Spe  
+Timid Nature  
+- Baton Pass  
+- Thunderbolt  
+- Agility  
+- Substitute  
+
+Lucario (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 112 HP / 196 SpA / 4 SpD / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Tyranitar @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Earthquake  
+- Ice Punch  
+
+
+=== [gen4ou] Hassi #1 ===
+
+Machamp (F) @ Focus Sash  
+Ability: No Guard  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Ice Punch  
+- Bullet Punch  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Outrage  
+- Fire Blast  
+- Earthquake  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Stone Edge  
+- Earthquake  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 140 HP / 116 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Rotom (Rotom-Wash) @ Leftovers  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Will-O-Wisp  
+- Thunderbolt  
+- Shadow Ball  
+
+
+=== [gen4ou] Untitled 1028 ===
+
+Machamp @ Lum Berry  
+Ability: No Guard  
+EVs: 232 HP / 248 Atk / 16 SpD / 12 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Bullet Punch  
+- Ice Punch  
+
+Donphan @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Ice Shard  
+- Earthquake  
+- Stealth Rock  
+- Rapid Spin  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 52 Def / 204 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Soft-Boiled  
+- Thunder Wave  
+- Seismic Toss  
+- Reflect  
+
+Gengar @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Focus Blast  
+- Thunderbolt  
+- Trick  
+
+Kingdra @ Life Orb  
+Ability: Swift Swim  
+EVs: 24 HP / 164 Atk / 4 Def / 100 SpA / 216 Spe  
+Naughty Nature  
+- Dragon Dance  
+- Draco Meteor  
+- Waterfall  
+- Outrage  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Leaf Storm  
+- Earth Power  
+- Psychic  
+- Hidden Power [Fire]  
+
+
+=== [gen4ou] Untitled 1027 ===
+
+Heatran @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 76 SpA / 180 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Substitute  
+- Seed Flare  
+- Earth Power  
+
+Swampert @ Choice Band  
+Ability: Torrent  
+EVs: 172 HP / 252 Atk / 84 Spe  
+Adamant Nature  
+- Earthquake  
+- Ice Punch  
+- Waterfall  
+- Stone Edge  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 228 SpD / 32 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Roost  
+- Thunderbolt  
+- Heat Wave  
+- Thunder Wave  
+
+Flygon @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Outrage  
+- Stone Edge  
+
+Scizor @ Life Orb  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Bug Bite  
+- Bullet Punch  
+- Superpower  
+
+
+=== [gen4ou] Untitled 1010 ===
+
+Zapdos @ Magnet  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- U-turn  
+- Hidden Power [Ice]  
+- Roost  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Aerial Ace  
+- Pursuit  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 104 HP / 252 SpA / 152 Spe  
+Timid Nature  
+- Stealth Rock  
+- Leaf Storm  
+- U-turn  
+- Hidden Power [Fire]  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 12 Def / 228 SpD / 4 Spe  
+Adamant Nature  
+- Swords Dance  
+- Bug Bite  
+- Bullet Punch  
+- Roost  
+
+Heatran (F) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+
+=== [gen4ou] Untitled 1000 ===
+
+Aerodactyl (M) @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Stealth Rock  
+- Taunt  
+
+Flygon (F) @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Dragon Claw  
+- U-turn  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Rapid Spin  
+- Ice Beam  
+
+Weavile (F) @ Life Orb  
+Ability: Pressure  
+EVs: 32 HP / 252 Atk / 40 SpD / 184 Spe  
+Jolly Nature  
+- Night Slash  
+- Pursuit  
+- Ice Shard  
+- Low Kick  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+Magnezone @ Leftovers  
+Ability: Magnet Pull  
+EVs: 120 HP / 252 SpA / 136 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Protect  
+- Hidden Power [Fire]  
+- Toxic  
+
+
+=== [gen4ou] Untitled 991 ===
+
+Aerodactyl (M) @ Focus Sash  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Stealth Rock  
+- Taunt  
+
+Flygon (F) @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Dragon Claw  
+- U-turn  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Rapid Spin  
+- Ice Beam  
+
+Weavile (F) @ Life Orb  
+Ability: Pressure  
+EVs: 32 HP / 252 Atk / 40 SpD / 184 Spe  
+Jolly Nature  
+- Night Slash  
+- Pursuit  
+- Ice Shard  
+- Low Kick  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 44 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+Magnezone @ Leftovers  
+Ability: Magnet Pull  
+EVs: 124 HP / 252 SpA / 132 Spe  
+Modest Nature  
+- Thunderbolt  
+- Protect  
+- Hidden Power [Fire]  
+- Toxic  
+
+
+=== [gen4ou] Untitled 986 ===
+
+Machamp @ Lum Berry  
+Ability: No Guard  
+EVs: 240 HP / 248 Atk / 16 SpD / 4 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Bullet Punch  
+- Stone Edge  
+
+Dragonite @ Life Orb  
+Ability: Inner Focus  
+EVs: 48 Atk / 252 SpA / 208 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Extreme Speed  
+
+Scizor @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 44 Atk / 216 SpD  
+Adamant Nature  
+- Bullet Punch  
+- Bug Bite  
+- Roost  
+- Swords Dance  
+
+Heatran @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Stealth Rock  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+Gyarados @ Leftovers  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Waterfall  
+- Earthquake  
+- Stone Edge  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+
+=== [gen4ou] Untitled 984 ===
+
+Machamp @ Lum Berry  
+Ability: No Guard  
+EVs: 240 HP / 248 Atk / 16 SpD / 4 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Bullet Punch  
+- Stone Edge  
+
+Dragonite @ Life Orb  
+Ability: Inner Focus  
+EVs: 48 Atk / 252 SpA / 208 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Extreme Speed  
+
+Scizor @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 44 Atk / 216 SpD  
+Adamant Nature  
+- Bullet Punch  
+- Bug Bite  
+- Roost  
+- Swords Dance  
+
+Heatran @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Stealth Rock  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+Celebi @ Choice Scarf  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Leaf Storm  
+- Earth Power  
+- Hidden Power [Ice]  
+- U-turn  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+
+=== [gen4ou] DPP Swellow HO ===
+
+Mamoswine @ Focus Sash  
+Ability: Oblivious  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Ice Shard  
+- Endeavor  
+
+Swellow @ Toxic Orb  
+Ability: Guts  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Jolly Nature  
+- Facade  
+- Brave Bird  
+- U-turn  
+- Protect  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Gyarados @ Leftovers  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Waterfall  
+- Earthquake  
+- Stone Edge  
+
+Magnezone @ Life Orb  
+Ability: Magnet Pull  
+EVs: 84 HP / 88 Atk / 252 SpA / 84 Spe  
+Mild Nature  
+- Thunderbolt  
+- Hidden Power [Grass]  
+- Flash Cannon  
+- Explosion  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 244 Atk / 252 Spe  
+Adamant Nature  
+- Spore  
+- Mach Punch  
+- Superpower  
+- Seed Bomb  
+
+
+=== [gen4ou] Untitled 658 ===
+
+Machamp (F) @ Lum Berry  
+Ability: No Guard  
+EVs: 204 HP / 248 Atk / 36 SpD / 20 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Ice Punch  
+- Payback  
+- Bullet Punch  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Earth Power  
+- Hidden Power [Ice]  
+- Rest  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Toxic  
+- Substitute  
+- Roost  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Stone Edge  
+- Earthquake  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+- Stealth Rock  
+
+Kingdra (F) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Rest  
+
+
+=== [gen4ou] Untitled 657 ===
+
+Machamp (M) @ Focus Sash  
+Ability: No Guard  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Bullet Punch  
+- Ice Punch  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Outrage  
+- Earthquake  
+
+Scizor (F) @ Choice Scarf  
+Ability: Technician  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- U-turn  
+- Pursuit  
+- Superpower  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Rotom-Wash @ Life Orb  
+Ability: Levitate  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Pain Split  
+- Substitute  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 192 SpA / 200 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] Untitled 560 ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+EVs: 64 HP / 228 SpD / 216 Spe  
+Jolly Nature  
+- Stealth Rock  
+- U-turn  
+- Taunt  
+- Explosion  
+
+Weavile (F) @ Life Orb  
+Ability: Pressure  
+EVs: 32 HP / 252 Atk / 40 SpD / 184 Spe  
+Jolly Nature  
+- Pursuit  
+- Ice Shard  
+- Low Kick  
+- Night Slash  
+
+Flygon @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- U-turn  
+- Dragon Claw  
+
+Magnezone @ Custap Berry  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Fire]  
+- Flash Cannon  
+- Explosion  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 192 SpA / 200 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+- Calm Mind  
+
+Heatran (F) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hidden Power [Ice]  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] Untitled 566 ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Rapid Spin  
+- Thunderbolt  
+- Ice Beam  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 252 HP / 232 Atk / 24 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Stealth Rock  
+- Meteor Mash  
+- Explosion  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 HP / 56 Atk / 196 SpA / 4 Spe  
+Quiet Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Roost  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 168 HP / 248 Atk / 92 Spe  
+Adamant Nature  
+- Aqua Tail  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+- Trick Room  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+
+
+=== [gen4ou] Untitled 556 ===
+
+Machamp (F) @ Focus Sash  
+Ability: No Guard  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Ice Punch  
+- Bullet Punch  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Outrage  
+- Fire Blast  
+- Earthquake  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Stone Edge  
+- Earthquake  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 140 HP / 116 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Rotom (Rotom-Wash) @ Leftovers  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Will-O-Wisp  
+- Thunderbolt  
+- Shadow Ball  
+
+
+=== [gen4ou] Team of Power ===
+
+Azelf @ Focus Sash  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Stealth Rock  
+- Taunt  
+- Explosion  
+- Fire Blast  
+
+Lucario @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Extreme Speed  
+- Crunch  
+
+Dragonite @ Lum Berry  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Dragon Claw  
+- Earthquake  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 252 Atk / 244 Spe  
+Adamant Nature  
+- Substitute  
+- Focus Punch  
+- Spore  
+- Seed Bomb  
+
+Heatran @ Passho Berry  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Metal Sound  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Grass]  
+
+
+=== [gen4ou] Untitled 545 ===
+
+winter clothes (Zapdos) @ Lum Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- Heat Wave  
+- Roost  
+- U-turn  
+
+going home (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ice Punch  
+- U-turn  
+- Iron Head  
+- Zen Headbutt  
+
+bleeding me (Tyranitar) (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 160 HP / 8 Atk / 252 SpA / 88 Spe  
+Rash Nature  
+- Ice Beam  
+- Fire Blast  
+- Pursuit  
+- Stealth Rock  
+
+la la la (Starmie) @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 44 Def / 216 Spe  
+Timid Nature  
+- Recover  
+- Surf  
+- Thunderbolt  
+- Rapid Spin  
+
+good sickness (Breloom) (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 248 HP / 228 Atk / 32 Spe  
+Adamant Nature  
+- Substitute  
+- Spore  
+- Seed Bomb  
+- Focus Punch  
+
+the original (Aerodactyl) (F) @ Life Orb  
+Ability: Rock Head  
+EVs: 112 HP / 248 Atk / 4 SpD / 144 Spe  
+Jolly Nature  
+- Roost  
+- Taunt  
+- Rock Slide  
+- Earthquake  
+
+
+=== [gen4ou] Untitled 544 ===
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 30 SpA / 30 SpD  
+- Fire Punch  
+- Ice Punch  
+- Iron Head  
+- U-turn  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 228 SpD / 28 Spe  
+Calm Nature  
+IVs: 30 Atk / 30 Def  
+- Taunt  
+- Toxic  
+- Stealth Rock  
+- Lava Plume  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+
+Flygon @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Outrage  
+- Dragon Claw  
+
+Zapdos @ Expert Belt  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Grass]  
+- Roost  
+- Heat Wave  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Stone Edge  
+- Earthquake  
+
+
+=== [gen4ou] Untitled 519 ===
+
+Azelf @ Choice Band  
+Ability: Levitate  
+EVs: 144 Atk / 112 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Trick  
+- Zen Headbutt  
+- Explosion  
+
+Flygon @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Stone Edge  
+- Outrage  
+
+Heatran @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Modest Nature  
+- Stealth Rock  
+- Earth Power  
+- Fire Blast  
+- Will-O-Wisp  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Timid Nature  
+- Calm Mind  
+- Hidden Power [Electric]  
+- Ice Beam  
+- Hydro Pump  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 236 HP / 252 Atk / 20 Spe  
+Adamant Nature  
+- Spore  
+- Substitute  
+- Seed Bomb  
+- Focus Punch  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hidden Power [Ground]  
+- Thunderbolt  
+- Psychic  
+
+
+=== [gen4ou] Untitled 503 ===
+
+Celebi @ Occa Berry  
+Ability: Natural Cure  
+EVs: 32 HP / 4 Def / 252 SpA / 220 Spe  
+Timid Nature  
+IVs: 30 Atk / 30 SpA / 30 Spe  
+- Leaf Storm  
+- Earth Power  
+- Stealth Rock  
+- U-turn  
+
+Infernape @ Life Orb  
+Ability: Blaze  
+EVs: 64 Atk / 252 SpA / 192 Spe  
+Naive Nature  
+- Fire Blast  
+- Mach Punch  
+- Grass Knot  
+- Close Combat  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 28 Def / 96 SpA / 136 Spe  
+Timid Nature  
+- Baton Pass  
+- Thunderbolt  
+- Agility  
+- Substitute  
+
+Lucario (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 112 HP / 196 SpA / 4 SpD / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Tyranitar @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Earthquake  
+- Ice Punch  
+
+
+=== [gen4ou] Team Boom Battle ===
+
+Gengar @ Black Sludge  
+Ability: Cursed Body  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Hasty Nature  
+- Explosion  
+- Focus Blast  
+- Shadow Ball  
+- Taunt  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Explosion  
+- Bullet Punch  
+- Earthquake  
+
+Magnezone @ Choice Specs  
+Ability: Magnet Pull  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+IVs: 30 Atk / 30 SpA / 3 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]  
+- Explosion  
+- Flash Cannon  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Explosion  
+- Stone Edge  
+- U-turn  
+
+Gourgeist-Super @ Leftovers  
+Ability: Frisk  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Trick Room  
+- Explosion  
+- Will-O-Wisp  
+
+Wailord @ Choice Specs  
+Ability: Water Veil  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+IVs: 0 Spe  
+- Water Spout  
+- Hydro Pump  
+- Self-Destruct  
+- Ice Beam  
+
+
+=== [gen4ou] PDC Dump Team #1 ===
+
+Zapdos @ Life Orb  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- Heat Wave  
+- Hidden Power [Grass]  
+- U-turn  
+
+Lucario (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Extreme Speed  
+- Swords Dance  
+- Crunch  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Extreme Speed  
+- Earthquake  
+
+Swampert (M) @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 124 Def / 136 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Ice Beam  
+- Hydro Pump  
+
+Jirachi @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 76 HP / 252 SpA / 180 Spe  
+Modest Nature  
+- Calm Mind  
+- Psychic  
+- Thunderbolt  
+- Grass Knot  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Stone Edge  
+- Ice Punch  
+
+
+=== [gen4ou] PDC Dump Team #2 ===
+
+Tyranitar (M) @ Expert Belt  
+Ability: Sand Stream  
+EVs: 64 Atk / 212 SpA / 192 Spe  
+Rash Nature  
+- Hidden Power [Grass]  
+- Fire Blast  
+- Low Kick  
+- Crunch  
+
+Flygon (F) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+- U-turn  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Zen Headbutt  
+- Earthquake  
+- Agility  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 24 HP / 252 SpA / 232 Spe  
+Modest Nature  
+- Stealth Rock  
+- Fire Blast  
+- Hidden Power [Grass]  
+- Explosion  
+
+Kingdra (M) @ Choice Specs  
+Ability: Swift Swim  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Timid Nature  
+- Draco Meteor  
+- Hydro Pump  
+- Surf  
+- Dragon Pulse  
+
+Celebi @ Choice Scarf  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- U-turn  
+- Psychic  
+- Healing Wish  
+
+
+=== [gen4ou] PDC Dump Team #3 ===
+
+Empoleon (F) @ Chople Berry  
+Ability: Torrent  
+EVs: 156 HP / 252 SpA / 100 Spe  
+Modest Nature  
+- Stealth Rock  
+- Hydro Pump  
+- Aqua Jet  
+- Ice Beam  
+
+Flygon (M) @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Outrage  
+- Dragon Claw  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+- Hydro Pump  
+
+Heatran (M) @ Life Orb  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Fire Blast  
+- Explosion  
+- Hidden Power [Grass]  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 40 HP / 216 SpA / 252 Spe  
+Timid Nature  
+- Trick  
+- Hydro Pump  
+- Thunderbolt  
+- Shadow Ball  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 224 HP / 252 Atk / 32 Spe  
+Adamant Nature  
+- U-turn  
+- Superpower  
+- Pursuit  
+- Bullet Punch  
+
+
+=== [gen4ou] PDC Dump Team #4 ===
+
+Aerodactyl (F) @ Focus Sash  
+Ability: Pressure  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Stone Edge  
+- Earthquake  
+- Taunt  
+
+Heatran (F) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Fire Blast  
+- Explosion  
+- Hidden Power [Grass]  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 16 HP / 252 SpA / 240 Spe  
+Modest Nature  
+- Thunderbolt  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Agility  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 60 Atk / 196 SpA / 252 Spe  
+Naive Nature  
+- Explosion  
+- Focus Blast  
+- Shadow Ball  
+- Destiny Bond  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 136 HP / 164 Atk / 56 Def / 136 SpD / 16 Spe  
+Adamant Nature  
+- U-turn  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 108 HP / 196 SpA / 196 Spe  
+Timid Nature  
+- Ice Beam  
+- Hydro Pump  
+- Calm Mind  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #5 ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Rapid Spin  
+- Thunderbolt  
+- Ice Beam  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 252 HP / 232 Atk / 24 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Stealth Rock  
+- Meteor Mash  
+- Explosion  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 HP / 56 Atk / 196 SpA / 4 Spe  
+Quiet Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Roost  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 168 HP / 248 Atk / 92 Spe  
+Adamant Nature  
+- Aqua Tail  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+- Trick Room  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #6 ===
+
+Heatran (F) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stealth Rock  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+Lucario (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Crunch  
+- Bullet Punch  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Thunder Punch  
+
+Roserade (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 80 Def / 56 SpD / 120 Spe  
+Calm Nature  
+- Spikes  
+- Energy Ball  
+- Stun Spore  
+- Hidden Power [Fire]  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Focus Blast  
+- Thunderbolt  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #7 ===
+
+Zapdos @ Life Orb  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Grass]  
+- Heat Wave  
+- U-turn  
+
+Flygon (M) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Outrage  
+- U-turn  
+- Fire Punch  
+
+Scizor (M) @ Choice Scarf  
+Ability: Technician  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Jolly Nature  
+- U-turn  
+- Pursuit  
+- Superpower  
+- Bullet Punch  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 152 HP / 12 Atk / 252 SpA / 92 Spe  
+Modest Nature  
+- Stealth Rock  
+- Fire Blast  
+- Hidden Power [Grass]  
+- Explosion  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+
+Breloom (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 172 HP / 204 Def / 132 Spe  
+Adamant Nature  
+- Spore  
+- Substitute  
+- Seed Bomb  
+- Focus Punch  
+
+
+=== [gen4ou] PDC Dump Team #8 ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Jirachi @ Expert Belt  
+Ability: Serene Grace  
+EVs: 76 Atk / 252 SpA / 180 Spe  
+Rash Nature  
+- Stealth Rock  
+- Grass Knot  
+- Iron Head  
+- Fire Punch  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Stone Edge  
+- Earthquake  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+- Hydro Pump  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Mild Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Roost  
+
+Lucario (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Bullet Punch  
+- Swords Dance  
+- Crunch  
+
+
+=== [gen4ou] PDC Dump Team #9 ===
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Meteor Mash  
+- Explosion  
+- Stealth Rock  
+- Bullet Punch  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+- Hidden Power [Ice]  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Substitute  
+- Roost  
+- Toxic  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Earth Power  
+- Hidden Power [Ice]  
+- Synthesis  
+
+Machamp (F) @ Leftovers  
+Ability: No Guard  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Substitute  
+- Stone Edge  
+- Payback  
+
+Starmie @ Leftovers  
+Ability: Illuminate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+
+=== [gen4ou] PDC Dump Team #10 ===
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 248 HP / 216 Atk / 16 Def / 20 SpD / 8 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Bullet Punch  
+- Earthquake  
+- Explosion  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Rapid Spin  
+- Thunderbolt  
+- Ice Beam  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 40 HP / 216 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Will-O-Wisp  
+- Trick  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 64 HP / 176 Atk / 252 SpA / 16 Spe  
+Quiet Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Extreme Speed  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 168 HP / 248 Atk / 92 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Superpower  
+- Stone Edge  
+
+Lucario (M) @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Crunch  
+- Bullet Punch  
+
+
+=== [gen4ou] PDC Dump Team #11 ===
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 44 Atk / 180 SpD / 36 Spe  
+Careful Nature  
+- Stealth Rock  
+- Body Slam  
+- U-turn  
+- Iron Head  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 72 HP / 4 Def / 252 SpA / 180 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Dark]  
+- Heat Wave  
+- Roost  
+
+Heatran (F) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 60 HP / 252 SpA / 196 Spe  
+Timid Nature  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Explosion  
+- Earth Power  
+
+Flygon (F) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Fire Punch  
+
+Breloom (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 252 Atk / 244 Spe  
+Adamant Nature  
+- Focus Punch  
+- Seed Bomb  
+- Substitute  
+- Spore  
+
+
+=== [gen4ou] PDC Dump Team #12 ===
+
+Azelf @ Light Clay  
+Ability: Levitate  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Light Screen  
+- Reflect  
+- Taunt  
+- Stealth Rock  
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Stone Edge  
+- Earthquake  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+- Trick Room  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+- Overheat  
+
+Jirachi @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 72 HP / 252 SpA / 4 SpD / 180 Spe  
+Modest Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Ground]  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+
+=== [gen4ou] PDC Dump Team #13 ===
+
+Machamp (M) @ Focus Sash  
+Ability: No Guard  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Bullet Punch  
+- Ice Punch  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Outrage  
+- Earthquake  
+
+Scizor (F) @ Choice Scarf  
+Ability: Technician  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- U-turn  
+- Pursuit  
+- Superpower  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Rotom-Wash @ Life Orb  
+Ability: Levitate  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Pain Split  
+- Substitute  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 192 SpA / 200 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #14 ===
+
+Dragonite (F) @ Choice Band  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Agility  
+- Meteor Mash  
+- Earthquake  
+- Zen Headbutt  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Substitute  
+
+Gengar (F) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 188 HP / 4 Def / 252 SpA / 64 Spe  
+Modest Nature  
+- Fire Blast  
+- Hidden Power [Grass]  
+- Explosion  
+- Stealth Rock  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 120 HP / 192 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #15 ===
+
+Machamp (F) @ Lum Berry  
+Ability: No Guard  
+EVs: 204 HP / 248 Atk / 36 SpD / 20 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Ice Punch  
+- Payback  
+- Bullet Punch  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Earth Power  
+- Hidden Power [Ice]  
+- Rest  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Toxic  
+- Substitute  
+- Roost  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Stone Edge  
+- Earthquake  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+- Stealth Rock  
+
+Kingdra (F) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Rest  
+
+
+=== [gen4ou] PDC Dump Team #16 ===
+
+Zapdos @ Life Orb  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- U-turn  
+- Thunderbolt  
+- Heat Wave  
+- Hidden Power [Ice]  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 164 HP / 252 SpA / 8 SpD / 84 Spe  
+Modest Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Grass]  
+- Explosion  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 76 SpA / 184 SpD  
+Quiet Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Earthquake  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Hidden Power [Dark]  
+- Trick  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Earth Power  
+- Hidden Power [Ice]  
+- Rest  
+
+Kingdra (F) @ Choice Specs  
+Ability: Swift Swim  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Timid Nature  
+- Surf  
+- Dragon Pulse  
+- Draco Meteor  
+- Hydro Pump  
+
+
+=== [gen4ou] PDC Dump Team #17 ===
+
+Roserade (M) @ Focus Sash  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Sleep Powder  
+- Leaf Storm  
+- Toxic Spikes  
+- Hidden Power [Ice]  
+
+Rotom-Wash @ Choice Specs  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Trick  
+- Shadow Ball  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 60 HP / 252 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Outrage  
+- U-turn  
+- Fire Punch  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Ground]  
+
+
+=== [gen4ou] PDC Dump Team #18 ===
+
+Azelf @ Choice Band  
+Ability: Levitate  
+EVs: 144 Atk / 112 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Trick  
+- Explosion  
+- Zen Headbutt  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- U-turn  
+- Earthquake  
+- Outrage  
+- Stone Edge  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Modest Nature  
+- Fire Blast  
+- Stealth Rock  
+- Earth Power  
+- Will-O-Wisp  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+- Calm Mind  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 236 HP / 252 Atk / 20 Spe  
+Adamant Nature  
+- Focus Punch  
+- Seed Bomb  
+- Substitute  
+- Spore  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Ground]  
+
+
+=== [gen4ou] PDC Dump Team #19 ===
+
+Empoleon (M) @ Chople Berry  
+Ability: Torrent  
+EVs: 4 HP / 212 SpA / 40 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Stealth Rock  
+- Grass Knot  
+- Ice Beam  
+
+Infernape (F) @ Choice Band  
+Ability: Blaze  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Mach Punch  
+- U-turn  
+- Flare Blitz  
+- Close Combat  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Recover  
+- Hydro Pump  
+- Rapid Spin  
+- Psychic  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Outrage  
+- Fire Punch  
+
+Jirachi @ Expert Belt  
+Ability: Serene Grace  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hidden Power [Ice]  
+- Fire Punch  
+- Thunderbolt  
+- Iron Head  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+- Earthquake  
+
+
+=== [gen4ou] PDC Dump Team #20 ===
+
+VOLCAN (Heatran) (F) @ Focus Sash  
+Ability: Flash Fire  
+EVs: 8 HP / 252 SpA / 248 Spe  
+Modest Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Hidden Power [Grass]  
+
+FUSION (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Fire Punch  
+
+CARNAGE (Gyarados) (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Ice Fang  
+
+KILLER (Flygon) (M) @ Life Orb  
+Ability: Levitate  
+EVs: 64 Atk / 192 SpA / 252 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Earthquake  
+- Roost  
+
+HADOKUEN (Breloom) (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 236 HP / 200 Atk / 64 Def / 8 Spe  
+Adamant Nature  
+- Spore  
+- Seed Bomb  
+- Focus Punch  
+- Substitute  
+
+BEAST (Tyranitar) (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 160 Atk / 96 SpA / 252 Spe  
+Hasty Nature  
+- Pursuit  
+- Ice Beam  
+- Stone Edge  
+- Superpower  
+
+
+=== [gen4ou] PDC Dump Team #21 ===
+
+Breloom (F) @ Choice Scarf  
+Ability: Poison Heal  
+EVs: 4 HP / 252 Atk / 212 Spe  
+Jolly Nature  
+- Spore  
+- Seed Bomb  
+- Superpower  
+- Stone Edge  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+
+Flygon (F) @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+- U-turn  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Thunderbolt  
+- Hidden Power [Ground]  
+
+Aerodactyl (F) @ Life Orb  
+Ability: Pressure  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Taunt  
+- Roost  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 176 HP / 252 SpA / 80 Spe  
+Mild Nature  
+- Flamethrower  
+- Hidden Power [Grass]  
+- Stealth Rock  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #22 ===
+
+Aerodactyl (M) @ Focus Sash  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Toxic  
+- Stealth Rock  
+- Taunt  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 252 Atk / 176 SpD / 80 Spe  
+Adamant Nature  
+- Superpower  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Rotom-Heat @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Substitute  
+- Thunderbolt  
+- Will-O-Wisp  
+- Pain Split  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Rapid Spin  
+- Surf  
+- Ice Beam  
+- Recover  
+
+BWs fault (Skarmory) (M) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 248 SpD / 8 Spe  
+Careful Nature  
+- Whirlwind  
+- Brave Bird  
+- Roost  
+- Spikes  
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+- U-turn  
+
+
+=== [gen4ou] PDC Dump Team #23 ===
+
+Roserade (M) @ Focus Sash  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Toxic Spikes  
+- Sleep Powder  
+- Hidden Power [Ice]  
+
+Bronzong @ Damp Rock  
+Ability: Levitate  
+EVs: 252 HP / 152 Atk / 8 Def / 96 SpD  
+Relaxed Nature  
+- Gyro Ball  
+- Explosion  
+- Rain Dance  
+- Earthquake  
+
+Kingdra (M) @ Choice Specs  
+Ability: Swift Swim  
+EVs: 24 HP / 252 SpA / 232 Spe  
+Modest Nature  
+- Hydro Pump  
+- Draco Meteor  
+- Hidden Power [Fire]  
+- Surf  
+
+Dugtrio (M) @ Focus Sash  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Substitute  
+- Reversal  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 128 HP / 76 Def / 52 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Calm Mind  
+- Substitute  
+- Hidden Power [Ice]  
+
+Mesprit @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 180 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- U-turn  
+- Rain Dance  
+- Thunderbolt  
+
+
+=== [gen4ou] PDC Dump Team #24 ===
+
+Roserade (F) @ Focus Sash  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Toxic Spikes  
+- Sleep Powder  
+- Leaf Storm  
+- Hidden Power [Ground]  
+
+Jirachi @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Ground]  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Flygon (M) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- U-turn  
+- Earthquake  
+- Fire Punch  
+
+Gengar (F) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 56 HP / 252 SpA / 200 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+- Calm Mind  
+
+
+=== [gen4ou] PDC Dump Team #25 ===
+
+Aerodactyl (F) @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Stealth Rock  
+- Taunt  
+- Toxic  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 164 HP / 252 SpA / 4 SpD / 88 Spe  
+Modest Nature  
+- Hidden Power [Grass]  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Bounce  
+
+Jirachi @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Ground]  
+
+Rotom-W (Rotom-Heat) @ Leftovers  
+Ability: Levitate  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Thunderbolt  
+- Will-O-Wisp  
+- Substitute  
+- Pain Split  
+
+Lucario (M) @ Choice Scarf  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Crunch  
+- Ice Punch  
+- Thunder Punch  
+
+
+=== [gen4ou] PDC Dump Team #26 ===
+
+Machamp (M) @ Focus Sash  
+Ability: No Guard  
+EVs: 192 HP / 252 Atk / 64 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Ice Punch  
+- Bullet Punch  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 192 SpA / 200 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Ice Beam  
+
+Jirachi @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Hidden Power [Ground]  
+- Grass Knot  
+
+Metagross @ Iron Ball  
+Ability: Clear Body  
+EVs: 236 HP / 252 Atk / 20 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Stealth Rock  
+- Earthquake  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #27 ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+EVs: 64 HP / 228 SpD / 216 Spe  
+Jolly Nature  
+- Stealth Rock  
+- U-turn  
+- Taunt  
+- Explosion  
+
+Weavile (F) @ Life Orb  
+Ability: Pressure  
+EVs: 32 HP / 252 Atk / 40 SpD / 184 Spe  
+Jolly Nature  
+- Pursuit  
+- Ice Shard  
+- Low Kick  
+- Night Slash  
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Mild Nature  
+- Draco Meteor  
+- Flamethrower  
+- Superpower  
+- Extreme Speed  
+
+Magnezone @ Life Orb  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Fire]  
+- Flash Cannon  
+- Magnet Rise  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 192 SpA / 200 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+- Calm Mind  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 192 HP / 252 SpA / 64 Spe  
+Modest Nature  
+- Hidden Power [Grass]  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #28 ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+EVs: 248 HP / 12 Atk / 16 Def / 16 SpD / 216 Spe  
+Jolly Nature  
+- Taunt  
+- Explosion  
+- Stealth Rock  
+- U-turn  
+
+Gengar (M) @ Black Sludge  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Taunt  
+- Will-O-Wisp  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Flygon (M) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- U-turn  
+- Earthquake  
+- Fire Punch  
+- Outrage  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 64 HP / 248 SpA / 196 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+- Calm Mind  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 104 HP / 252 SpA / 152 Spe  
+Modest Nature  
+- Calm Mind  
+- Psychic  
+- Thunderbolt  
+- Grass Knot  
+
+
+=== [gen4ou] PDC Dump Team #29 ===
+
+clouded (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- Heat Wave  
+- Hidden Power [Grass]  
+- Roost  
+
+subtle body (Starmie) @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 176 Def / 8 SpD / 76 Spe  
+Bold Nature  
+- Surf  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+earthly love (Hippowdon) (M) @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 20 Def / 240 SpD  
+Careful Nature  
+- Stealth Rock  
+- Slack Off  
+- Earthquake  
+- Roar  
+
+illuminatus (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 4 Atk / 4 Def / 252 SpD  
+Careful Nature  
+- Wish  
+- Protect  
+- Body Slam  
+- Iron Head  
+
+nostalgia (Venusaur) (M) @ Black Sludge  
+Ability: Overgrow  
+EVs: 248 HP / 112 Def / 148 SpD  
+Calm Nature  
+- Sleep Powder  
+- Leech Seed  
+- Energy Ball  
+- Hidden Power [Fire]  
+
+rapturous (Heatran) (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+- Hidden Power [Ice]  
+
+
+=== [gen4ou] PDC Dump Team #30 ===
+
+Infernape (M) @ Focus Sash  
+Ability: Blaze  
+EVs: 64 Atk / 252 SpA / 192 Spe  
+Naive Nature  
+- Fake Out  
+- Stealth Rock  
+- Fire Blast  
+- Close Combat  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Hidden Power [Electric]  
+- Ice Beam  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Earth Power  
+- Hidden Power [Ice]  
+- Rest  
+
+Lucario (F) @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Extreme Speed  
+- Crunch  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Pain Split  
+- Shadow Ball  
+- Focus Blast  
+
+Tyranitar (F) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Earthquake  
+
+
+=== [gen4ou] PDC Dump Team #31 ===
+
+Swampert (M) @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 252 Def / 8 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Protect  
+- Earthquake  
+- Ice Beam  
+
+Roserade (F) @ Black Sludge  
+Ability: Natural Cure  
+EVs: 24 HP / 252 SpA / 232 Spe  
+Timid Nature  
+- Sleep Powder  
+- Toxic Spikes  
+- Leaf Storm  
+- Hidden Power [Fire]  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Substitute  
+- Pain Split  
+- Shadow Ball  
+- Focus Blast  
+
+Jolteon (M) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 40 HP / 252 SpA / 40 SpD / 176 Spe  
+Timid Nature  
+- Substitute  
+- Baton Pass  
+- Thunderbolt  
+- Wish  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Pursuit  
+- Superpower  
+- Stone Edge  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Calm Mind  
+- Psychic  
+- Thunderbolt  
+- Hidden Power [Ground]  
+
+
+=== [gen4ou] PDC Dump Team #32 ===
+
+Dragonite (F) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 136 HP / 164 Atk / 56 Def / 136 SpD / 16 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Flygon (F) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- U-turn  
+- Earthquake  
+- Outrage  
+- Fire Punch  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+- Stealth Rock  
+- Leaf Storm  
+- U-turn  
+- Earth Power  
+
+Heatran (F) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Rapid Spin  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+
+
+=== [gen4ou] PDC Dump Team #33 ===
+
+Azelf @ Damp Rock  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Taunt  
+- Rain Dance  
+- Stealth Rock  
+- Explosion  
+
+Kingdra (M) @ Life Orb  
+Ability: Swift Swim  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+- Rain Dance  
+- Hydro Pump  
+- Dragon Pulse  
+- Draco Meteor  
+
+Ludicolo (F) @ Life Orb  
+Ability: Swift Swim  
+EVs: 64 HP / 252 SpA / 192 Spe  
+Modest Nature  
+- Rain Dance  
+- Hydro Pump  
+- Giga Drain  
+- Ice Beam  
+
+Qwilfish (F) @ Life Orb  
+Ability: Swift Swim  
+EVs: 88 HP / 252 Atk / 168 Spe  
+Adamant Nature  
+- Swords Dance  
+- Waterfall  
+- Poison Jab  
+- Explosion  
+
+Dugtrio (F) @ Life Orb  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Sucker Punch  
+- Aerial Ace  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 160 HP / 252 SpA / 96 Spe  
+Modest Nature  
+- Agility  
+- Thunder  
+- Hidden Power [Ice]  
+- Heat Wave  
+
+
+=== [gen4ou] PDC Dump Team #34 ===
+
+Aerodactyl (M) @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Toxic  
+- Taunt  
+- Stealth Rock  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Dark]  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Ice Punch  
+- Stone Edge  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Pursuit  
+- Superpower  
+
+Gengar (F) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 112 HP / 196 SpA / 200 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #35 ===
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 252 SpA / 4 Spe  
+Quiet Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Extreme Speed  
+
+Tyranitar (F) @ Passho Berry  
+Ability: Sand Stream  
+EVs: 112 HP / 252 Atk / 112 SpA / 32 SpD  
+Brave Nature  
+- Pursuit  
+- Stealth Rock  
+- Fire Blast  
+- Stone Edge  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+- Trick Room  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Breloom (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 252 Atk / 244 Spe  
+Adamant Nature  
+- Focus Punch  
+- Seed Bomb  
+- Spore  
+- Substitute  
+
+Infernape (F) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Close Combat  
+- Overheat  
+- U-turn  
+- Mach Punch  
+
+
+=== [gen4ou] PDC Dump Team #36 ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Stealth Rock  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+Raikou @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Rash Nature  
+- Thunderbolt  
+- Aura Sphere  
+- Hidden Power [Ice]  
+- Shadow Ball  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 44 Spe  
+Modest Nature  
+- Stealth Rock  
+- Leaf Storm  
+- Hidden Power [Fire]  
+- U-turn  
+
+Zapdos @ Life Orb  
+Ability: Pressure  
+EVs: 208 HP / 252 SpA / 44 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Dark]  
+- Roost  
+- Agility  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Pursuit  
+- Aerial Ace  
+
+
+=== [gen4ou] PDC Dump Team #37 ===
+
+Jirachi @ Occa Berry  
+Ability: Serene Grace  
+EVs: 76 HP / 252 SpA / 180 Spe  
+Modest Nature  
+- Stealth Rock  
+- Grass Knot  
+- Hidden Power [Ground]  
+- Psychic  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 112 HP / 196 SpA / 200 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 136 HP / 164 Atk / 56 Def / 136 SpD / 16 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Swords Dance  
+- Roost  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Close Combat  
+- Overheat  
+- Mach Punch  
+- U-turn  
+
+Empoleon (M) @ Shuca Berry  
+Ability: Torrent  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+- Hydro Pump  
+- Ice Beam  
+- Grass Knot  
+- Agility  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+
+=== [gen4ou] PDC Dump Team #38 ===
+
+Gallade @ Life Orb  
+Ability: Steadfast  
+EVs: 212 Atk / 44 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Zen Headbutt  
+- Ice Punch  
+- Shadow Sneak  
+
+Gyarados (M) @ Choice Band  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Stone Edge  
+- Payback  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Earthquake  
+- Stone Edge  
+- Ice Punch  
+
+Forretress (F) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Spikes  
+- Rapid Spin  
+- Payback  
+
+Rotom (Rotom-Wash) @ Choice Specs  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hydro Pump  
+- Trick  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- U-turn  
+- Thunder Punch  
+
+
+=== [gen4ou] PDC Dump Team #39 ===
+
+Dragonite (M) @ Choice Band  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Fire Punch  
+- Earthquake  
+
+Lucario (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Bullet Punch  
+- Extreme Speed  
+- Swords Dance  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Recover  
+- Hydro Pump  
+- Rapid Spin  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 208 HP / 144 Atk / 60 SpA / 96 Spe  
+Lonely Nature  
+- Pursuit  
+- Flamethrower  
+- Ice Beam  
+- Stone Edge  
+
+Metagross @ Occa Berry  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Stealth Rock  
+
+Rotom (Rotom-Wash) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #40 ===
+
+Dragonite (M) @ Choice Band  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Earthquake  
+- Fire Blast  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Rotom (Rotom-Wash) @ Life Orb  
+Ability: Levitate  
+EVs: 32 HP / 4 Def / 252 SpA / 220 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Substitute  
+- Pain Split  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 252 Atk / 244 Spe  
+Adamant Nature  
+- Focus Punch  
+- Seed Bomb  
+- Spore  
+- Substitute  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Explosion  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+
+Tyranitar (F) @ Passho Berry  
+Ability: Sand Stream  
+EVs: 112 HP / 252 Atk / 112 SpA / 32 SpD  
+Brave Nature  
+- Pursuit  
+- Crunch  
+- Fire Blast  
+- Low Kick  
+
+
+=== [gen4ou] PDC Dump Team #41 ===
+
+Roserade (F) @ Focus Sash  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Sleep Powder  
+- Leaf Storm  
+- Toxic Spikes  
+- Hidden Power [Fire]  
+
+Empoleon (F) @ Petaya Berry  
+Ability: Torrent  
+EVs: 12 HP / 4 Def / 252 SpA / 240 Spe  
+Modest Nature  
+- Agility  
+- Substitute  
+- Surf  
+- Ice Beam  
+
+Kingdra (F) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Rest  
+
+Swampert (M) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 216 Def / 40 SpD  
+Relaxed Nature  
+- Earthquake  
+- Stealth Rock  
+- Ice Beam  
+- Roar  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Mild Nature  
+- Draco Meteor  
+- Fire Blast  
+- Roost  
+- Superpower  
+
+Gengar (F) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+
+=== [gen4ou] PDC Dump Team #42 ===
+
+Dragonite (M) @ Choice Band  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Outrage  
+- Fire Punch  
+
+Lucario (F) @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Extreme Speed  
+- Crunch  
+- Swords Dance  
+
+Kingdra (M) @ Life Orb  
+Ability: Swift Swim  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+- Rain Dance  
+- Hydro Pump  
+- Draco Meteor  
+- Dragon Pulse  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Crunch  
+- Earthquake  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Zen Headbutt  
+- Earthquake  
+- Meteor Mash  
+- Agility  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Trick  
+- Shadow Ball  
+- Overheat  
+
+
+=== [gen4ou] PDC Dump Team #43 ===
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 136 Atk / 80 SpA / 40 SpD  
+Brave Nature  
+- Stealth Rock  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 56 HP / 252 Atk / 4 Def / 196 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Bounce  
+- Stone Edge  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Agility  
+- Zen Headbutt  
+- Meteor Mash  
+- Earthquake  
+
+Infernape (F) @ Choice Band  
+Ability: Blaze  
+EVs: 48 HP / 252 Atk / 4 Def / 204 Spe  
+Jolly Nature  
+- Flare Blitz  
+- U-turn  
+- Mach Punch  
+- Close Combat  
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+Kingdra (M) @ Life Orb  
+Ability: Swift Swim  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+- Rain Dance  
+- Hydro Pump  
+- Draco Meteor  
+- Dragon Pulse  
+
+
+=== [gen4ou] PDC Dump Team #44 ===
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 100 HP / 252 Atk / 32 Def / 80 SpA / 44 SpD  
+Brave Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Low Kick  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 56 HP / 252 Atk / 4 Def / 196 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Bounce  
+- Stone Edge  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Agility  
+- Zen Headbutt  
+- Meteor Mash  
+- Earthquake  
+
+Infernape (F) @ Choice Scarf  
+Ability: Blaze  
+EVs: 52 Atk / 252 SpA / 204 Spe  
+Naive Nature  
+- Flare Blitz  
+- U-turn  
+- Hidden Power [Ice]  
+- Close Combat  
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+Kingdra (M) @ Life Orb  
+Ability: Swift Swim  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+- Rain Dance  
+- Hydro Pump  
+- Draco Meteor  
+- Dragon Pulse  
+
+
+=== [gen4ou] PDC Dump Team #45 ===
+
+Skarmory (M) @ Occa Berry  
+Ability: Keen Eye  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+- Brave Bird  
+
+Donphan (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 188 Atk / 68 Def  
+Adamant Nature  
+- Assurance  
+- Earthquake  
+- Ice Shard  
+- Rapid Spin  
+
+Heatran (F) @ Choice Specs  
+Ability: Flash Fire  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+- Overheat  
+- Earth Power  
+- Hidden Power [Grass]  
+- Dragon Pulse  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 196 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Tyranitar (F) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+
+=== [gen4ou] PDC Dump Team #46 ===
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Taunt  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+- Hidden Power [Ice]  
+
+Gengar (F) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 252 Atk / 244 Spe  
+Adamant Nature  
+- Focus Punch  
+- Seed Bomb  
+- Spore  
+- Substitute  
+
+Tyranitar (M) @ Passho Berry  
+Ability: Sand Stream  
+EVs: 124 HP / 252 Atk / 20 Def / 80 SpA / 32 SpD  
+Brave Nature  
+- Crunch  
+- Fire Blast  
+- Stealth Rock  
+- Low Kick  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Close Combat  
+- Overheat  
+- Mach Punch  
+- U-turn  
+
+
+=== [gen4ou] PDC Dump Team #47 ===
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 64 HP / 252 Atk / 4 Def / 188 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Taunt  
+- Stone Edge  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Toxic  
+- Roost  
+- Substitute  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Close Combat  
+- Overheat  
+- U-turn  
+- Mach Punch  
+
+Empoleon (M) @ Shuca Berry  
+Ability: Torrent  
+EVs: 80 HP / 4 Def / 252 SpA / 168 Spe  
+Modest Nature  
+- Agility  
+- Surf  
+- Ice Beam  
+- Grass Knot  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+- Trick Room  
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 124 HP / 252 Atk / 8 Def / 80 SpA / 44 SpD  
+Brave Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Low Kick  
+
+
+=== [gen4ou] PDC Dump Team #48 ===
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 120 HP / 252 Atk / 80 SpA / 56 SpD  
+Brave Nature  
+- Earthquake  
+- Ice Beam  
+- Crunch  
+- Fire Blast  
+
+Machamp (F) @ Leftovers  
+Ability: No Guard  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Substitute  
+- Stone Edge  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 64 HP / 252 SpA / 4 SpD / 188 Spe  
+Modest Nature  
+- Stealth Rock  
+- Earth Power  
+- Hidden Power [Fire]  
+- Leaf Storm  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 144 HP / 176 Atk / 4 Def / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Bounce  
+
+Jirachi @ Expert Belt  
+Ability: Serene Grace  
+EVs: 252 Atk / 80 SpA / 176 Spe  
+Naive Nature  
+- Thunderbolt  
+- Iron Head  
+- Fire Punch  
+- Grass Knot  
+
+Gliscor (F) @ Leftovers  
+Ability: Sand Veil  
+EVs: 216 Spe  
+Jolly Nature  
+- Substitute  
+- Ice Fang  
+- Earthquake  
+- Taunt  
+
+
+=== [gen4ou] PDC Dump Team #49 ===
+
+Jirachi @ Occa Berry  
+Ability: Serene Grace  
+EVs: 64 HP / 252 SpA / 192 Spe  
+Modest Nature  
+- Hidden Power [Ground]  
+- Psychic  
+- Stealth Rock  
+- Thunderbolt  
+
+Abomasnow (M) @ Leftovers  
+Ability: Snow Warning  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature  
+- Ice Shard  
+- Leech Seed  
+- Protect  
+- Substitute  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Rapid Spin  
+- Recover  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 56 HP / 252 Atk / 200 Spe  
+Adamant Nature  
+- Bounce  
+- Dragon Dance  
+- Stone Edge  
+- Waterfall  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 56 Atk / 12 Def / 192 SpD  
+Adamant Nature  
+- Bug Bite  
+- Bullet Punch  
+- Roost  
+- Swords Dance  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 12 Def / 248 SpD  
+Calm Nature  
+- Earth Power  
+- Flamethrower  
+- Protect  
+- Will-O-Wisp  
+
+
+=== [gen4ou] PDC Dump Team #50 ===
+
+Crobat (F) @ Leftovers  
+Ability: Inner Focus  
+EVs: 248 HP / 100 Def / 16 SpD / 144 Spe  
+Jolly Nature  
+- Taunt  
+- Roost  
+- U-turn  
+- Brave Bird  
+
+Tyranitar (F) @ Passho Berry  
+Ability: Sand Stream  
+EVs: 120 HP / 252 Atk / 8 Def / 80 SpA / 48 SpD  
+Brave Nature  
+- Stealth Rock  
+- Crunch  
+- Stone Edge  
+- Fire Blast  
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Dragon Dance  
+- Fire Punch  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hidden Power [Ice]  
+- Trick  
+
+Aerodactyl (M) @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Roost  
+- Taunt  
+
+Lucario (F) @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Extreme Speed  
+- Crunch  
+- Swords Dance  
+
+
+=== [gen4ou] PDC Dump Team #51 ===
+
+Infernape (M) @ Focus Sash  
+Ability: Blaze  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Fire Blast  
+- Grass Knot  
+- Close Combat  
+
+Kingdra (M) @ Choice Specs  
+Ability: Swift Swim  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Timid Nature  
+- Draco Meteor  
+- Dragon Pulse  
+- Hydro Pump  
+- Surf  
+
+Empoleon (F) @ Petaya Berry  
+Ability: Torrent  
+EVs: 12 HP / 4 Def / 252 SpA / 240 Spe  
+Modest Nature  
+- Substitute  
+- Surf  
+- Agility  
+- Ice Beam  
+
+Dragonite (F) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Fire Punch  
+- Dragon Dance  
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 208 HP / 144 Atk / 124 SpA / 32 SpD  
+Brave Nature  
+- Pursuit  
+- Flamethrower  
+- Ice Beam  
+- Stone Edge  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 48 HP / 252 SpA / 208 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+- Will-O-Wisp  
+
+
+=== [gen4ou] PDC Dump Team #52 ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+EVs: 248 HP / 12 Atk / 16 Def / 16 SpD / 216 Spe  
+Jolly Nature  
+- Taunt  
+- Explosion  
+- U-turn  
+- Stealth Rock  
+
+Dragonite (F) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Extreme Speed  
+- Fire Punch  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Breloom (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 172 HP / 204 Def / 132 Spe  
+Adamant Nature  
+- Focus Punch  
+- Substitute  
+- Seed Bomb  
+- Spore  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 8 Atk / 220 SpD / 32 Spe  
+Careful Nature  
+- Body Slam  
+- Iron Head  
+- Wish  
+- Fire Punch  
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Fire Punch  
+
+
+=== [gen4ou] PDC Dump Team #53 ===
+
+Zapdos @ Magnet  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- U-turn  
+- Hidden Power [Ice]  
+- Roost  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Aerial Ace  
+- Pursuit  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 104 HP / 252 SpA / 152 Spe  
+Timid Nature  
+- Stealth Rock  
+- Leaf Storm  
+- U-turn  
+- Hidden Power [Fire]  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 12 Def / 228 SpD / 4 Spe  
+Adamant Nature  
+- Swords Dance  
+- Bug Bite  
+- Bullet Punch  
+- Roost  
+
+Heatran (F) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #54 ===
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- U-turn  
+- Earthquake  
+- Outrage  
+- Thunder Punch  
+
+Vaporeon (M) @ Choice Specs  
+Ability: Water Absorb  
+EVs: 176 HP / 252 SpA / 80 Spe  
+Modest Nature  
+- Hydro Pump  
+- Ice Beam  
+- Surf  
+- Wish  
+
+Metagross @ Iron Ball  
+Ability: Clear Body  
+EVs: 248 HP / 232 Atk / 28 Spe  
+Adamant Nature  
+- Trick  
+- Stealth Rock  
+- Meteor Mash  
+- Earthquake  
+
+Roserade (M) @ Black Sludge  
+Ability: Natural Cure  
+EVs: 24 HP / 252 SpA / 232 Spe  
+Timid Nature  
+- Sleep Powder  
+- Toxic Spikes  
+- Leaf Storm  
+- Hidden Power [Fire]  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 12 Def / 248 SpD  
+Calm Nature  
+- Lava Plume  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Rotom (Rotom-Frost) @ Life Orb  
+Ability: Levitate  
+EVs: 32 HP / 224 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Pain Split  
+- Thunderbolt  
+- Shadow Ball  
+
+
+=== [gen4ou] PDC Dump Team #55 ===
+
+Heatran (F) @ Choice Specs  
+Ability: Flash Fire  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Modest Nature  
+- Earth Power  
+- Overheat  
+- Flamethrower  
+- Dragon Pulse  
+
+Dragonite (F) @ Choice Band  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Waterfall  
+- Extreme Speed  
+- Earthquake  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Skarmory (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Roost  
+- Brave Bird  
+- Whirlwind  
+
+Tyranitar (F) @ Chesto Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Crunch  
+- Rest  
+- Stealth Rock  
+- Earthquake  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 48 HP / 252 SpA / 208 Spe  
+Timid Nature  
+- Thunderbolt  
+- Overheat  
+- Trick  
+- Shadow Ball  
+
+
+=== [gen4ou] PDC Dump Team #56 ===
+
+Forretress (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Spikes  
+- Rapid Spin  
+- Payback  
+- Toxic Spikes  
+
+Torterra (F) @ Leftovers  
+Ability: Overgrow  
+EVs: 248 HP / 224 Def / 36 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Leech Seed  
+- Protect  
+
+Vaporeon (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 252 Def / 8 SpA  
+Bold Nature  
+- Surf  
+- Wish  
+- Protect  
+- Hidden Power [Electric]  
+
+Rotom-Heat @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Thunderbolt  
+- Rest  
+- Sleep Talk  
+- Will-O-Wisp  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 36 SpA / 224 SpD  
+Calm Nature  
+- Sleep Talk  
+- Earth Power  
+- Lava Plume  
+- Rest  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 164 HP / 92 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Toxic  
+- Roost  
+- Substitute  
+
+
+=== [gen4ou] PDC Dump Team #57 ===
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Bounce  
+
+Tyranitar (F) @ Choice Band  
+Ability: Sand Stream  
+EVs: 160 HP / 252 Atk / 4 Def / 92 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Aqua Tail  
+
+Venusaur (M) @ Leftovers  
+Ability: Overgrow  
+EVs: 248 HP / 116 Def / 144 SpD  
+Calm Nature  
+- Sleep Powder  
+- Leech Seed  
+- Energy Ball  
+- Hidden Power [Fire]  
+
+Gengar (F) @ Choice Scarf  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Thunderbolt  
+- Hidden Power [Ice]  
+
+Forretress (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Payback  
+- Spikes  
+- Rapid Spin  
+- Toxic Spikes  
+
+Lucario (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Close Combat  
+- Crunch  
+
+
+=== [gen4ou] PDC Dump Team #58 ===
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 236 HP / 252 Atk / 4 Def / 16 Spe  
+Adamant Nature  
+- Earthquake  
+- Stealth Rock  
+- Bullet Punch  
+- Explosion  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 120 HP / 192 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Hidden Power [Ice]  
+- Ice Beam  
+
+Zapdos @ Magnet  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- U-turn  
+- Hidden Power [Ice]  
+- Roost  
+
+Dugtrio (M) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Pursuit  
+- Aerial Ace  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Hidden Power [Ice]  
+- Rest  
+- Earth Power  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #59 ===
+
+Crobat (M) @ Leftovers  
+Ability: Inner Focus  
+EVs: 248 HP / 100 Def / 16 SpD / 144 Spe  
+Jolly Nature  
+- Brave Bird  
+- U-turn  
+- Taunt  
+- Roost  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Pursuit  
+- Aerial Ace  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 12 Def / 228 SpD / 4 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 44 HP / 252 SpA / 212 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hydro Pump  
+- Trick  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 120 HP / 192 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Heatran (F) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Stealth Rock  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #60 ===
+
+Dragonite (M) @ Choice Band  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Fire Punch  
+- Earthquake  
+
+Lucario (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Bullet Punch  
+- Extreme Speed  
+- Swords Dance  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Recover  
+- Hydro Pump  
+- Rapid Spin  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 208 HP / 144 Atk / 60 SpA / 96 Spe  
+Lonely Nature  
+- Pursuit  
+- Flamethrower  
+- Ice Beam  
+- Stone Edge  
+
+Metagross @ Occa Berry  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Stealth Rock  
+
+Rotom (Rotom-Wash) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #61 ===
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Pursuit  
+- Superpower  
+- Ice Beam  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 176 Def / 28 SpD / 56 Spe  
+Bold Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 SpA / 252 Spe  
+Timid Nature  
+- Toxic  
+- Thunderbolt  
+- Roost  
+- Substitute  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Wish  
+- Reflect  
+- Calm Mind  
+- Psychic  
+
+Heatran (F) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hidden Power [Ice]  
+- Earth Power  
+- Fire Blast  
+- Stealth Rock  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 16 Atk / 236 Def / 4 Spe  
+Adamant Nature  
+- Spore  
+- Substitute  
+- Focus Punch  
+- Seed Bomb  
+
+
+=== [gen4ou] PDC Dump Team #62 ===
+
+Heatran (M) @ Choice Specs  
+Ability: Flash Fire  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Modest Nature  
+- Overheat  
+- Earth Power  
+- Dragon Pulse  
+- Flamethrower  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 16 HP / 252 Def / 128 SpA / 112 Spe  
+Bold Nature  
+- Soft-Boiled  
+- Flamethrower  
+- Ice Beam  
+- Seismic Toss  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 168 Def / 56 SpD / 36 Spe  
+Bold Nature  
+- Energy Ball  
+- Leech Seed  
+- Recover  
+- Hidden Power [Fire]  
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 8 Atk / 32 Def / 216 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Roost  
+- Taunt  
+
+Lucario (M) @ Choice Scarf  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Ice Punch  
+- Thunder Punch  
+- Crunch  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 4 Def / 248 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+
+=== [gen4ou] PDC Dump Team #63 ===
+
+Zapdos @ Magnet  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- U-turn  
+- Hidden Power [Ice]  
+- Roost  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Thunder Punch  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 164 HP / 252 Atk / 92 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Aqua Tail  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 152 HP / 12 Atk / 252 SpA / 92 Spe  
+Modest Nature  
+- Fire Blast  
+- Hidden Power [Grass]  
+- Explosion  
+- Stealth Rock  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 12 Def / 228 SpD / 4 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+
+=== [gen4ou] PDC Dump Team #64 ===
+
+Gliscor (F) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 40 Def / 216 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Taunt  
+- Roost  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 152 Def / 96 SpD / 8 Spe  
+Careful Nature  
+- Waterfall  
+- Rest  
+- Dragon Dance  
+- Sleep Talk  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+
+Scizor (M) @ Choice Scarf  
+Ability: Technician  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- U-turn  
+- Pursuit  
+- Superpower  
+
+Tyranitar (F) @ Choice Band  
+Ability: Sand Stream  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Aqua Tail  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+- Trick Room  
+- Gyro Ball  
+- Explosion  
+- Earthquake  
+
+
+=== [gen4ou] PDC Dump Team #65 ===
+
+Staraptor (F) @ Choice Band  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Brave Bird  
+- U-turn  
+- Close Combat  
+- Return  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 120 HP / 4 Def / 168 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Rapid Spin  
+- Recover  
+
+Flygon (M) @ Life Orb  
+Ability: Levitate  
+EVs: 80 Atk / 252 SpA / 176 Spe  
+Rash Nature  
+- Draco Meteor  
+- Earthquake  
+- Fire Blast  
+- Roost  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 152 Atk / 4 Def / 80 SpA / 24 SpD  
+Brave Nature  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+- Stone Edge  
+
+Skarmory (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 224 Def / 36 SpD  
+Impish Nature  
+- Stealth Rock  
+- Spikes  
+- Whirlwind  
+- Roost  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 44 HP / 252 SpA / 212 Spe  
+Timid Nature  
+- Thunderbolt  
+- Will-O-Wisp  
+- Trick  
+- Shadow Ball  
+
+
+=== [gen4ou] PDC Dump Team #66 ===
+
+Infernape (F) @ Choice Scarf  
+Ability: Blaze  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Naive Nature  
+- Close Combat  
+- U-turn  
+- Fire Blast  
+- Hidden Power [Ice]  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 120 HP / 192 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Roserade (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 80 Def / 56 SpD / 120 Spe  
+Calm Nature  
+- Energy Ball  
+- Toxic Spikes  
+- Stun Spore  
+- Hidden Power [Fire]  
+
+Skarmory (M) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 196 Def / 64 SpD  
+Impish Nature  
+- Spikes  
+- Roost  
+- Whirlwind  
+- Brave Bird  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 20 Def / 16 SpA / 220 SpD  
+Calm Nature  
+- Stealth Rock  
+- Roar  
+- Will-O-Wisp  
+- Lava Plume  
+
+Rotom-Wash @ Choice Specs  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Shadow Ball  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #67 ===
+
+Hippowdon (M) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Def / 252 SpD  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Slack Off  
+- Roar  
+
+Aerodactyl (M) @ Life Orb  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Roost  
+- Taunt  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Naive Nature  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Explosion  
+
+Lucario (M) @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+- Swords Dance  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 128 HP / 140 SpA / 240 Spe  
+Modest Nature  
+- Seed Flare  
+- Earth Power  
+- Leech Seed  
+- Rest  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Rapid Spin  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+
+
+=== [gen4ou] PDC Dump Team #68 ===
+
+Crobat (F) @ Leftovers  
+Ability: Inner Focus  
+EVs: 248 HP / 100 Def / 16 SpD / 144 Spe  
+Jolly Nature  
+- Brave Bird  
+- Taunt  
+- U-turn  
+- Roost  
+
+Flygon (M) @ Expert Belt  
+Ability: Levitate  
+EVs: 80 Atk / 252 SpA / 176 Spe  
+Rash Nature  
+- U-turn  
+- Fire Blast  
+- Earthquake  
+- Draco Meteor  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 136 Def / 120 SpD  
+Calm Nature  
+- Calm Mind  
+- Flash Cannon  
+- Wish  
+- Thunderbolt  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 208 HP / 144 Atk / 48 Def / 60 SpA / 48 SpD  
+Brave Nature  
+- Pursuit  
+- Ice Beam  
+- Fire Blast  
+- Stone Edge  
+
+Heatran (F) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 120 HP / 192 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #69 ===
+
+Roserade (M) @ Focus Sash  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Toxic Spikes  
+- Hidden Power [Ice]  
+- Sleep Powder  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 164 HP / 252 SpA / 92 Spe  
+Modest Nature  
+- Fire Blast  
+- Hidden Power [Grass]  
+- Stealth Rock  
+- Explosion  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 136 Def / 120 SpD  
+Calm Nature  
+- Calm Mind  
+- Thunderbolt  
+- Flash Cannon  
+- Wish  
+
+Scizor (F) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 12 Def / 228 SpD / 4 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Rotom-H (Rotom-Wash) @ Life Orb  
+Ability: Levitate  
+EVs: 4 HP / 4 Def / 252 SpA / 248 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Pain Split  
+- Will-O-Wisp  
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- U-turn  
+- Earthquake  
+- Thunder Punch  
+
+
+=== [gen4ou] PDC Dump Team #70 ===
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 136 HP / 252 Atk / 4 Def / 80 SpA / 32 SpD  
+Brave Nature  
+- Stealth Rock  
+- Fire Blast  
+- Crunch  
+- Stone Edge  
+
+Infernape (F) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Close Combat  
+- Overheat  
+- Mach Punch  
+- U-turn  
+
+Kingdra (M) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Rest  
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Mild Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Roost  
+
+Gyarados (M) @ Choice Band  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Waterfall  
+- Payback  
+- Stone Edge  
+- Earthquake  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Agility  
+- Earthquake  
+- Meteor Mash  
+- Zen Headbutt  
+
+
+=== [gen4ou] PDC Dump Team #71 ===
+
+Breloom (F) @ Choice Scarf  
+Ability: Poison Heal  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Spore  
+- Superpower  
+- Seed Bomb  
+- Stone Edge  
+
+Jirachi @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Ground]  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 204 HP / 252 SpA / 4 SpD / 48 Spe  
+Modest Nature  
+- Fire Blast  
+- Hidden Power [Grass]  
+- Stealth Rock  
+- Explosion  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 16 HP / 252 SpA / 240 Spe  
+Modest Nature  
+- Thunderbolt  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Agility  
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Thunder Punch  
+
+Starmie @ Leftovers  
+Ability: Illuminate  
+EVs: 40 HP / 248 SpA / 4 SpD / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+
+=== [gen4ou] PDC Dump Team #72 ===
+
+Tyranitar (M) @ Chesto Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 32 Atk / 224 SpD  
+Adamant Nature  
+- Payback  
+- Rest  
+- Stealth Rock  
+- Stone Edge  
+
+Kingdra (M) @ Choice Specs  
+Ability: Sniper  
+EVs: 100 HP / 252 SpA / 156 Spe  
+Modest Nature  
+- Draco Meteor  
+- Dragon Pulse  
+- Hydro Pump  
+- Surf  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Earthquake  
+- Explosion  
+- Gyro Ball  
+- Trick Room  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Overheat  
+- Shadow Ball  
+- Thunderbolt  
+- Trick  
+
+Heatran (M) @ Life Orb  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Earth Power  
+- Explosion  
+- Fire Blast  
+- Hidden Power [Grass]  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 236 HP / 248 Def / 24 Spe  
+Impish Nature  
+- Focus Punch  
+- Leech Seed  
+- Spore  
+- Substitute  
+
+
+=== [gen4ou] PDC Dump Team #73 ===
+
+Machamp (F) @ Focus Sash  
+Ability: No Guard  
+EVs: 188 HP / 252 Atk / 64 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Bullet Punch  
+- Ice Punch  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+Metagross @ Occa Berry  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Fire Blast  
+- U-turn  
+- Close Combat  
+- Hidden Power [Ice]  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Ice Punch  
+- Earthquake  
+
+Gyarados (F) @ Wacan Berry  
+Ability: Intimidate  
+EVs: 68 HP / 252 Atk / 4 SpD / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Bounce  
+
+
+=== [gen4ou] PDC Dump Team #74 ===
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Bounce  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Fire Blast  
+- U-turn  
+- Close Combat  
+- Mach Punch  
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Extreme Speed  
+- Fire Punch  
+
+Kingdra (F) @ Life Orb  
+Ability: Swift Swim  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+- Rain Dance  
+- Hydro Pump  
+- Draco Meteor  
+- Surf  
+
+Tyranitar (F) @ Chesto Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 28 Atk / 232 SpD  
+Brave Nature  
+- Crunch  
+- Stealth Rock  
+- Rest  
+- Stone Edge  
+
+Metagross @ Occa Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Agility  
+- Meteor Mash  
+- Earthquake  
+- Zen Headbutt  
+
+
+=== [gen4ou] PDC Dump Team #75 ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+EVs: 252 HP / 40 Atk / 216 Spe  
+Jolly Nature  
+- Taunt  
+- Stealth Rock  
+- U-turn  
+- Explosion  
+
+Infernape (F) @ Life Orb  
+Ability: Blaze  
+EVs: 248 Atk / 64 SpA / 196 Spe  
+Hasty Nature  
+- Close Combat  
+- Stone Edge  
+- Overheat  
+- U-turn  
+
+Breloom (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 244 Atk / 212 Spe  
+Jolly Nature  
+- Spore  
+- Substitute  
+- Focus Punch  
+- Seed Bomb  
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 64 Atk / 196 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Taunt  
+- Waterfall  
+- Bounce  
+
+Jolteon (M) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Substitute  
+- Baton Pass  
+- Thunderbolt  
+- Hidden Power [Ice]  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Gyro Ball  
+- Earthquake  
+- Trick Room  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #76 ===
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Naive Nature  
+- Fire Blast  
+- Explosion  
+- Earth Power  
+- Stealth Rock  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Hidden Power [Fire]  
+- Leech Seed  
+- Earth Power  
+
+Kingdra (M) @ Choice Specs  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Surf  
+- Draco Meteor  
+- Dragon Pulse  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Pursuit  
+- Superpower  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hydro Pump  
+- Trick  
+
+Machamp (M) @ Leftovers  
+Ability: No Guard  
+EVs: 240 HP / 248 Atk / 16 SpD / 4 Spe  
+Adamant Nature  
+- Payback  
+- Stone Edge  
+- Substitute  
+- Dynamic Punch  
+
+
+=== [gen4ou] PDC Dump Team #77 ===
+
+Heatran (F) @ Lum Berry  
+Ability: Flash Fire  
+EVs: 248 HP / 72 Def / 104 SpA / 84 Spe  
+Modest Nature  
+- Magma Storm  
+- Stealth Rock  
+- Will-O-Wisp  
+- Explosion  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Hyper Beam  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Scizor (F) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Superpower  
+- Pursuit  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Pursuit  
+- Aerial Ace  
+
+Gengar (F) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 16 HP / 252 SpA / 240 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Heat Wave  
+- Agility  
+
+
+=== [gen4ou] PDC Dump Team #78 ===
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 36 Atk / 4 Def / 216 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stealth Rock  
+- Roost  
+
+Snorlax (F) @ Choice Band  
+Ability: Thick Fat  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Adamant Nature  
+- Return  
+- Pursuit  
+- Earthquake  
+- Crunch  
+
+Scizor (F) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 4 Def / 228 SpD / 12 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 196 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #79 ===
+
+Metagross @ Occa Berry  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Bullet Punch  
+- Earthquake  
+- Explosion  
+- Stealth Rock  
+
+Infernape (F) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Close Combat  
+- Overheat  
+- U-turn  
+- Stone Edge  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Weavile (F) @ Life Orb  
+Ability: Pressure  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Jolly Nature  
+- Pursuit  
+- Ice Shard  
+- Low Kick  
+- Ice Punch  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Seed Flare  
+- Earth Power  
+- Hidden Power [Ice]  
+- Rest  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Fire Punch  
+
+
+=== [gen4ou] PDC Dump Team #80 ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Infernape (M) @ Choice Band  
+Ability: Blaze  
+EVs: 48 HP / 252 Atk / 4 Def / 204 Spe  
+Jolly Nature  
+- U-turn  
+- Close Combat  
+- Flare Blitz  
+- Mach Punch  
+
+Scizor (F) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 4 Def / 232 SpD / 8 Spe  
+Adamant Nature  
+- Swords Dance  
+- Bullet Punch  
+- Bug Bite  
+- Roost  
+
+Lucario (F) @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Extreme Speed  
+- Crunch  
+- Swords Dance  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Fire Punch  
+- U-turn  
+- Iron Head  
+
+Kingdra (F) @ Life Orb  
+Ability: Swift Swim  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+- Rain Dance  
+- Draco Meteor  
+- Dragon Pulse  
+- Hydro Pump  
+
+
+=== [gen4ou] PDC Dump Team #81 ===
+
+Tyranitar (M) @ Focus Sash  
+Ability: Sand Stream  
+EVs: 184 Atk / 100 SpA / 224 Spe  
+Lonely Nature  
+- Flamethrower  
+- Low Kick  
+- Stealth Rock  
+- Crunch  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 24 Def / 12 SpA / 8 SpD / 216 Spe  
+Timid Nature  
+- Surf  
+- Rapid Spin  
+- Recover  
+- Thunderbolt  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 4 Def / 4 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Superpower  
+- Pursuit  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 68 Def / 44 SpD / 148 Spe  
+Timid Nature  
+- Thunder Wave  
+- Recover  
+- Leaf Storm  
+- Hidden Power [Fire]  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Ice Fang  
+
+
+=== [gen4ou] PDC Dump Team #82 ===
+
+Metagross @ Iron Ball  
+Ability: Clear Body  
+EVs: 248 HP / 232 Atk / 28 Spe  
+Adamant Nature  
+- Trick  
+- Explosion  
+- Meteor Mash  
+- Earthquake  
+
+Hippowdon (M) @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 32 Def / 228 SpD  
+Impish Nature  
+- Stealth Rock  
+- Slack Off  
+- Earthquake  
+- Ice Fang  
+
+Roserade (F) @ Black Sludge  
+Ability: Natural Cure  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+- Sleep Powder  
+- Toxic Spikes  
+- Energy Ball  
+- Hidden Power [Fire]  
+
+Rotom-h (Rotom-Heat) @ Choice Scarf  
+Ability: Levitate  
+EVs: 240 HP / 60 SpA / 208 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Overheat  
+- Trick  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 176 Def / 8 SpD / 76 Spe  
+Bold Nature  
+- Surf  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Ice Fang  
+
+
+=== [gen4ou] PDC Dump Team #83 ===
+
+Crobat (M) @ Black Sludge  
+Ability: Inner Focus  
+EVs: 248 HP / 100 Def / 16 SpD / 144 Spe  
+Jolly Nature  
+- Taunt  
+- U-turn  
+- Roost  
+- Brave Bird  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 176 Def / 12 SpA / 16 SpD / 56 Spe  
+Bold Nature  
+- Surf  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 248 HP / 20 Atk / 220 SpA / 20 SpD  
+Modest Nature  
+- Stealth Rock  
+- Fire Blast  
+- Hidden Power [Electric]  
+- Explosion  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 240 HP / 216 Atk / 16 Def / 36 Spe  
+Adamant Nature  
+- Spore  
+- Substitute  
+- Seed Bomb  
+- Focus Punch  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 160 HP / 248 Atk / 100 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Superpower  
+- Stone Edge  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 248 HP / 252 Atk / 4 Def / 4 SpD  
+Adamant Nature  
+- Trick Room  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #84 ===
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 244 HP / 252 Atk / 12 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Meteor Mash  
+- Explosion  
+- Earthquake  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 164 HP / 216 SpA / 128 Spe  
+Modest Nature  
+- Fire Blast  
+- Explosion  
+- Stealth Rock  
+- Hidden Power [Grass]  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Gengar (M) @ Black Sludge  
+Ability: Cursed Body  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Focus Blast  
+- Shadow Ball  
+- Pain Split  
+
+Roserade (M) @ Black Sludge  
+Ability: Natural Cure  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+- Sleep Powder  
+- Toxic Spikes  
+- Leaf Storm  
+- Hidden Power [Fire]  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Close Combat  
+- Fire Blast  
+- Mach Punch  
+- Stone Edge  
+
+
+=== [gen4ou] PDC Dump Team #85 ===
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 16 Atk / 24 Def / 216 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Roost  
+- U-turn  
+
+Celebi @ Choice Scarf  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Hidden Power [Ice]  
+- U-turn  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Ice Punch  
+- Crunch  
+
+Jirachi @ Shuca Berry  
+Ability: Serene Grace  
+EVs: 68 HP / 252 SpA / 188 Spe  
+Modest Nature  
+- Calm Mind  
+- Grass Knot  
+- Psychic  
+- Hidden Power [Ground]  
+
+Breloom (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 16 Atk / 204 Def / 36 Spe  
+Adamant Nature  
+- Focus Blast  
+- Seed Bomb  
+- Snore  
+- Substitute  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 196 HP / 12 Atk / 252 SpA / 48 Spe  
+Quiet Nature  
+- Fire Blast  
+- Hidden Power [Grass]  
+- Will-O-Wisp  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #86 ===
+
+Jolteon (F) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Substitute  
+- Baton Pass  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 120 SpD / 136 Spe  
+Timid Nature  
+- Calm Mind  
+- Wish  
+- Psychic  
+- Reflect  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Aerial Ace  
+- Earthquake  
+- Stone Edge  
+- Pursuit  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+- Gyro Ball  
+- Trick Room  
+- Earthquake  
+- Explosion  
+
+Tyranitar (M) @ Babiri Berry  
+Ability: Sand Stream  
+EVs: 176 HP / 140 Atk / 4 Def / 80 SpA / 8 SpD / 100 Spe  
+Lonely Nature  
+- Stealth Rock  
+- Pursuit  
+- Stone Edge  
+- Fire Blast  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 116 HP / 196 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #87 ===
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+- U-turn  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Forretress (F) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 16 Def / 240 SpD  
+Relaxed Nature  
+- Payback  
+- Rapid Spin  
+- Toxic Spikes  
+- Spikes  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 76 SpA / 180 Spe  
+Modest Nature  
+- Protect  
+- Seed Flare  
+- Hidden Power [Ice]  
+- Leech Seed  
+
+Gengar (F) @ Black Sludge  
+Ability: Cursed Body  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Taunt  
+- Will-O-Wisp  
+- Shadow Ball  
+- Focus Blast  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 224 Def / 32 SpD  
+Bold Nature  
+- Wish  
+- Calm Mind  
+- Reflect  
+- Psychic  
+
+
+=== [gen4ou] PDC Dump Team #88 ===
+
+don't stand  (Smeargle) (M) @ Focus Sash  
+Ability: Own Tempo  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Spore  
+- Stealth Rock  
+- Spikes  
+
+so close to me (Scizor) (F) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Superpower  
+- Pursuit  
+
+temptation (Rotom-Heat) @ Choice Scarf  
+Ability: Levitate  
+EVs: 8 HP / 252 SpA / 248 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Trick  
+- Hidden Power [Ice]  
+
+so close to me (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+frustration  (Tyranitar) (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Ice Punch  
+- Earthquake  
+
+don't stand  (Lucario) (F) @ Life Orb  
+Ability: Steadfast  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Calm Mind  
+- Vacuum Wave  
+- Aura Sphere  
+- Hidden Power [Rock]  
+
+
+=== [gen4ou] PDC Dump Team #89 ===
+
+Aerodactyl (M) @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Taunt  
+- Stealth Rock  
+
+Flygon (M) @ Expert Belt  
+Ability: Levitate  
+EVs: 80 Atk / 252 SpA / 176 Spe  
+Rash Nature  
+- U-turn  
+- Earthquake  
+- Fire Blast  
+- Draco Meteor  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 120 Def / 136 SpD  
+Careful Nature  
+- Calm Mind  
+- Flash Cannon  
+- Thunderbolt  
+- Wish  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 120 HP / 192 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Stone Edge  
+- Crunch  
+- Superpower  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 172 HP / 204 Def / 132 Spe  
+Adamant Nature  
+- Focus Punch  
+- Seed Bomb  
+- Spore  
+- Substitute  
+
+
+=== [gen4ou] PDC Dump Team #90 ===
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 144 HP / 56 Atk / 252 SpA / 56 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Roost  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 8 Def  
+Adamant Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Stealth Rock  
+- Explosion  
+
+Jolteon (F) @ Choice Specs  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hidden Power [Grass]  
+- Baton Pass  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Surf  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Gengar (F) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Focus Blast  
+- Hidden Power [Fire]  
+- Explosion  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Ice Punch  
+- Earthquake  
+
+
+=== [gen4ou] PDC Dump Team #91 ===
+
+Crobat (F) @ Black Sludge  
+Ability: Inner Focus  
+EVs: 248 HP / 104 Def / 156 Spe  
+Jolly Nature  
+- Taunt  
+- U-turn  
+- Brave Bird  
+- Roost  
+
+Dugtrio (M) @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Pursuit  
+- Sucker Punch  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 228 Def / 28 Spe  
+Timid Nature  
+- Surf  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Rotom (Rotom-Heat) @ Choice Scarf  
+Ability: Levitate  
+EVs: 40 HP / 216 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hidden Power [Ice]  
+- Trick  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 16 Atk / 228 SpD / 16 Spe  
+Adamant Nature  
+- Swords Dance  
+- Bullet Punch  
+- Bug Bite  
+- Roost  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 48 SpA / 208 Spe  
+Lonely Nature  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+- Stealth Rock  
+
+
+=== [gen4ou] PDC Dump Team #92 ===
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 216 HP / 252 Atk / 40 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Stealth Rock  
+- Explosion  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 136 HP / 156 Def / 216 Spe  
+Timid Nature  
+- Surf  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Infernape (M) @ Choice Band  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Flare Blitz  
+- U-turn  
+- Stone Edge  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 144 HP / 56 Atk / 252 SpA / 56 Spe  
+Mild Nature  
+- Draco Meteor  
+- Superpower  
+- Fire Blast  
+- Roost  
+
+Quagsire (F) @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 HP / 56 Def / 200 SpD  
+Sassy Nature  
+- Earthquake  
+- Encore  
+- Recover  
+- Toxic  
+
+Scizor (F) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Superpower  
+- U-turn  
+- Pursuit  
+
+
+=== [gen4ou] PDC Dump Team #93 ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+EVs: 252 HP / 40 Atk / 216 Spe  
+Jolly Nature  
+- Taunt  
+- Stealth Rock  
+- U-turn  
+- Explosion  
+
+Infernape (F) @ Life Orb  
+Ability: Blaze  
+EVs: 248 Atk / 64 SpA / 196 Spe  
+Hasty Nature  
+- Close Combat  
+- Stone Edge  
+- Overheat  
+- U-turn  
+
+Breloom (F) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 12 HP / 244 Atk / 252 Spe  
+Jolly Nature  
+- Spore  
+- Substitute  
+- Focus Punch  
+- Seed Bomb  
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 64 Atk / 196 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Taunt  
+- Waterfall  
+- Bounce  
+
+Jolteon (M) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Substitute  
+- Baton Pass  
+- Thunderbolt  
+- Shadow Ball  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Gyro Ball  
+- Earthquake  
+- Trick Room  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #94 ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Skarmory (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Stealth Rock  
+- Spikes  
+- Roost  
+- Whirlwind  
+
+Tyranitar (F) @ Choice Band  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Stone Edge  
+- Superpower  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+Rotom (Rotom-Wash) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hydro Pump  
+- Trick  
+
+Metagross @ Life Orb  
+Ability: Clear Body  
+EVs: 56 HP / 252 Atk / 200 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Zen Headbutt  
+- Earthquake  
+- Agility  
+
+
+=== [gen4ou] PDC Dump Team #95 ===
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 144 HP / 56 Atk / 252 SpA / 56 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Roost  
+
+Skarmory (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Stealth Rock  
+- Spikes  
+- Roost  
+- Whirlwind  
+
+Tyranitar (F) @ Choice Band  
+Ability: Sand Stream  
+EVs: 104 HP / 252 Atk / 8 SpD / 144 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Stone Edge  
+- Superpower  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Rotom (Rotom-Wash) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hydro Pump  
+- Trick  
+
+Lucario (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+
+
+=== [gen4ou] PDC Dump Team #96 ===
+
+Heatran (M) @ Choice Specs  
+Ability: Flash Fire  
+EVs: 200 HP / 252 SpA / 56 Spe  
+Modest Nature  
+- Overheat  
+- Earth Power  
+- Hidden Power [Grass]  
+- Dragon Pulse  
+
+Forretress (F) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Impish Nature  
+- Toxic Spikes  
+- Rapid Spin  
+- Payback  
+- Gyro Ball  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 136 Atk / 8 Def / 80 SpA / 32 SpD  
+Brave Nature  
+- Stealth Rock  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Taunt  
+
+Roserade (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 80 Def / 4 SpA / 44 SpD / 128 Spe  
+Calm Nature  
+- Spikes  
+- Hidden Power [Ice]  
+- Rest  
+- Energy Ball  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Shadow Ball  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #97 ===
+
+Azelf @ Light Clay  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Reflect  
+- Explosion  
+- Light Screen  
+- Stealth Rock  
+
+Gyarados (M) @ Life Orb  
+Ability: Intimidate  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Stone Edge  
+- Bounce  
+
+Lucario (M) @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Crunch  
+- Extreme Speed  
+- Swords Dance  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Agility  
+- Meteor Mash  
+- Earthquake  
+- Thunder Punch  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Ice Punch  
+- Dragon Dance  
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Ice Fang  
+- Taunt  
+
+
+=== [gen4ou] PDC Dump Team #98 ===
+
+Mamoswine (F) @ Focus Sash  
+Ability: Snow Cloak  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Ice Shard  
+- Stone Edge  
+- Endeavor  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Seed Flare  
+- Leech Seed  
+- Hidden Power [Fire]  
+- Protect  
+
+Dragonite (F) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+Tyranitar (F) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 208 HP / 144 Atk / 60 SpA / 96 Spe  
+Lonely Nature  
+- Pursuit  
+- Flamethrower  
+- Ice Beam  
+- Stone Edge  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 112 HP / 4 Def / 196 SpA / 196 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #99 ===
+
+Celebi @ Life Orb  
+Ability: Natural Cure  
+EVs: 248 HP / 8 Def / 252 SpA  
+Quiet Nature  
+- Trick Room  
+- Stealth Rock  
+- Leaf Storm  
+- U-turn  
+
+Rhyperior (F) @ Life Orb  
+Ability: Solid Rock  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+- Earthquake  
+- Ice Punch  
+- Stone Edge  
+- Swords Dance  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Gyro Ball  
+- Earthquake  
+- Trick Room  
+- Explosion  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 144 HP / 112 Atk / 252 SpA  
+Quiet Nature  
+- Extreme Speed  
+- Fire Blast  
+- Draco Meteor  
+- Superpower  
+
+Tyranitar (F) @ Choice Band  
+Ability: Sand Stream  
+EVs: 164 HP / 252 Atk / 92 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Aqua Tail  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Overheat  
+- Shadow Ball  
+- Thunderbolt  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #100 ===
+
+Metagross @ Choice Scarf  
+Ability: Clear Body  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Earthquake  
+- Thunder Punch  
+- Explosion  
+
+Gengar (F) @ Leftovers  
+Ability: Cursed Body  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Focus Blast  
+- Substitute  
+- Shadow Ball  
+- Hypnosis  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 60 Atk / 252 SpA / 196 Spe  
+Naive Nature  
+- Close Combat  
+- Grass Knot  
+- Hidden Power [Ice]  
+- Fire Blast  
+
+Kingdra (F) @ Life Orb  
+Ability: Swift Swim  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+- Dragon Pulse  
+- Hydro Pump  
+- Draco Meteor  
+- Rain Dance  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 60 SpA / 60 SpD / 136 Spe  
+Timid Nature  
+- Leech Seed  
+- Seed Flare  
+- Earth Power  
+- Protect  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Mild Nature  
+- Fire Blast  
+- Stealth Rock  
+- Hidden Power [Grass]  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #101 ===
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 232 Atk / 252 SpA / 24 Spe  
+Quiet Nature  
+- Draco Meteor  
+- Superpower  
+- Extreme Speed  
+- Fire Blast  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 176 HP / 252 SpA / 80 Spe  
+Mild Nature  
+- Flamethrower  
+- Stealth Rock  
+- Hidden Power [Grass]  
+- Explosion  
+
+Lucario (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Ice Punch  
+- Crunch  
+- Close Combat  
+- Agility  
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Stone Edge  
+- Earthquake  
+- U-turn  
+
+Scizor (M) @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 56 Atk / 12 Def / 192 SpD  
+Adamant Nature  
+- Bullet Punch  
+- Superpower  
+- Swords Dance  
+- Roost  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 232 HP / 24 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Rapid Spin  
+- Hydro Pump  
+- Recover  
+
+
+=== [gen4ou] PDC Dump Team #102 ===
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Hasty Nature  
+- Earth Power  
+- Explosion  
+- Stealth Rock  
+- Fire Blast  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 196 Def / 60 Spe  
+Bold Nature  
+- Rapid Spin  
+- Recover  
+- Hydro Pump  
+- Reflect  
+
+Dragonite (F) @ Leftovers  
+Ability: Inner Focus  
+EVs: 252 HP / 52 Atk / 204 Spe  
+Adamant Nature  
+- Dragon Claw  
+- Fire Punch  
+- Dragon Dance  
+- Roost  
+
+Abomasnow (F) @ Leftovers  
+Ability: Snow Warning  
+EVs: 4 HP / 252 Atk / 252 SpA  
+Brave Nature  
+- Earthquake  
+- Ice Shard  
+- Wood Hammer  
+- Blizzard  
+
+Jolteon (M) @ Choice Specs  
+Ability: Volt Absorb  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Thunderbolt  
+- Hidden Power [Grass]  
+- Baton Pass  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+- Trick Room  
+- Explosion  
+- Earthquake  
+- Gyro Ball  
+
+
+=== [gen4ou] PDC Dump Team #103 ===
+
+Azelf @ Light Clay  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Light Screen  
+- Reflect  
+- Stealth Rock  
+- Taunt  
+
+Kingdra (M) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Waterfall  
+- Outrage  
+- Dragon Dance  
+- Rest  
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Dance  
+- Ice Punch  
+
+Lucario (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Extreme Speed  
+- Crunch  
+
+Gyarados (M) @ Wacan Berry  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Stone Edge  
+- Waterfall  
+- Dragon Dance  
+- Taunt  
+
+Scizor (M) @ Life Orb  
+Ability: Technician  
+EVs: 84 HP / 252 Atk / 172 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Superpower  
+- Swords Dance  
+- Bug Bite  
+
+
+=== [gen4ou] PDC Dump Team #104 ===
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Iron Head  
+- Fire Punch  
+- Trick  
+
+Swampert (M) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Earthquake  
+- Ice Punch  
+- Stealth Rock  
+- Roar  
+
+Dragonite (M) @ Choice Band  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Dragon Claw  
+- Outrage  
+
+Magnezone @ Leftovers  
+Ability: Magnet Pull  
+EVs: 220 HP / 180 SpA / 108 Spe  
+Modest Nature  
+- Hidden Power [Fire]  
+- Thunderbolt  
+- Thunder Wave  
+- Protect  
+
+Gengar (M) @ Leftovers  
+Ability: Cursed Body  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Focus Blast  
+- Substitute  
+- Shadow Ball  
+- Pain Split  
+
+Kingdra (F) @ Leftovers  
+Ability: Swift Swim  
+EVs: 252 HP / 96 Atk / 160 SpD  
+Adamant Nature  
+- Sleep Talk  
+- Outrage  
+- Dragon Dance  
+- Rest  
+
+
+=== [gen4ou] PDC Dump Team #105 ===
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Mild Nature  
+- Superpower  
+- Draco Meteor  
+- Fire Blast  
+- Roost  
+
+Metagross @ Life Orb  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Earthquake  
+- Zen Headbutt  
+- Agility  
+
+Raikou @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Rash Nature  
+- Aura Sphere  
+- Shadow Ball  
+- Hidden Power [Ice]  
+- Thunderbolt  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Calm Mind  
+- Hidden Power [Electric]  
+- Ice Beam  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Mild Nature  
+- Flamethrower  
+- Stealth Rock  
+- Hidden Power [Grass]  
+- Explosion  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Focus Blast  
+- Substitute  
+- Shadow Ball  
+- Pain Split  
+
+
+=== [gen4ou] PDC Dump Team #106 ===
+
+Dragonite (F) @ Choice Band  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Earthquake  
+- Fire Punch  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 44 HP / 248 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Gliscor (F) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 40 Atk / 216 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Roost  
+- U-turn  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 76 HP / 252 SpA / 4 SpD / 176 Spe  
+Timid Nature  
+- Seed Flare  
+- Leech Seed  
+- Hidden Power [Fire]  
+- Protect  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+- Gyro Ball  
+- Earthquake  
+- Trick Room  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #107 ===
+
+Azelf @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Fire Punch  
+- Zen Headbutt  
+- U-turn  
+- Explosion  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Will-O-Wisp  
+- Stealth Rock  
+- Fire Blast  
+
+Venusaur (M) @ Black Sludge  
+Ability: Overgrow  
+EVs: 252 HP / 24 SpA / 232 SpD  
+Calm Nature  
+- Sleep Powder  
+- Leech Seed  
+- Hidden Power [Fire]  
+- Leaf Storm  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 232 HP / 24 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Rapid Spin  
+- Hydro Pump  
+- Recover  
+
+Flygon (M) @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Fire Punch  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Ice Punch  
+- Iron Head  
+- Fire Punch  
+- Trick  
+
+
+=== [gen4ou] PDC Dump Team #108 ===
+
+Jirachi @ Occa Berry  
+Ability: Serene Grace  
+EVs: 76 HP / 252 SpA / 180 Spe  
+Modest Nature  
+- Psychic  
+- Hidden Power [Ground]  
+- Stealth Rock  
+- Grass Knot  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 140 HP / 152 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Rapid Spin  
+- Recover  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 120 HP / 252 SpA / 136 Spe  
+Timid Nature  
+- Rest  
+- Seed Flare  
+- Hidden Power [Ice]  
+- Earth Power  
+
+Skarmory (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 8 Def / 252 SpD  
+Bold Nature  
+- Brave Bird  
+- Spikes  
+- Whirlwind  
+- Roost  
+
+Heatran (F) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 68 HP / 252 SpA / 188 Spe  
+Timid Nature  
+- Thunderbolt  
+- Substitute  
+- Will-O-Wisp  
+- Pain Split  
+
+
+=== [gen4ou] PDC Dump Team #109 ===
+
+Machamp (F) @ Focus Sash  
+Ability: No Guard  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Ice Punch  
+- Bullet Punch  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Outrage  
+- Fire Blast  
+- Earthquake  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Stone Edge  
+- Earthquake  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 140 HP / 116 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Earth Power  
+- Stealth Rock  
+- Explosion  
+
+Rotom (Rotom-Wash) @ Leftovers  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Will-O-Wisp  
+- Thunderbolt  
+- Shadow Ball  
+
+
+=== [gen4ou] PDC Dump Team #110 ===
+
+Tyranitar (F) @ Focus Sash  
+Ability: Sand Stream  
+EVs: 68 HP / 252 Atk / 56 SpA / 132 Spe  
+Hasty Nature  
+- Crunch  
+- Fire Blast  
+- Superpower  
+- Stealth Rock  
+
+Kingdra (M) @ Life Orb  
+Ability: Swift Swim  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+- Rain Dance  
+- Hydro Pump  
+- Draco Meteor  
+- Signal Beam  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 52 HP / 252 Atk / 204 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+
+Infernape (F) @ Choice Band  
+Ability: Blaze  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Jolly Nature  
+- Close Combat  
+- Flare Blitz  
+- U-turn  
+- Mach Punch  
+
+Gyarados (M) @ Life Orb  
+Ability: Intimidate  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Earthquake  
+- Stone Edge  
+
+Metagross @ Occa Berry  
+Ability: Clear Body  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Adamant Nature  
+- Agility  
+- Meteor Mash  
+- Earthquake  
+- Ice Punch  
+
+
+=== [gen4ou] PDC Dump Team #111 ===
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 32 HP / 224 Atk / 196 SpA / 56 Spe  
+Mild Nature  
+- Draco Meteor  
+- Fire Blast  
+- Extreme Speed  
+- Superpower  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 248 HP / 180 SpA / 80 Spe  
+Mild Nature  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+- Stealth Rock  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Iron Head  
+- U-turn  
+- Trick  
+- Fire Punch  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Recover  
+
+Shaymin @ Leftovers  
+Ability: Natural Cure  
+EVs: 104 HP / 252 SpA / 152 Spe  
+Timid Nature  
+- Seed Flare  
+- Hidden Power [Ice]  
+- Earth Power  
+- Rest  
+
+
+=== [gen4ou] PDC Dump Team #112 ===
+
+Aerodactyl (M) @ Focus Sash  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Taunt  
+- Stealth Rock  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Superpower  
+- Pursuit  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 32 HP / 252 SpA / 4 SpD / 220 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Fire]  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Earthquake  
+- Stone Edge  
+- Ice Punch  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Focus Blast  
+- Shadow Ball  
+- Substitute  
+- Explosion  
+
+
+=== [gen4ou] PDC Dump Team #113 ===
+
+Heatran (F) @ Life Orb  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Overheat  
+- Hidden Power [Grass]  
+- Stealth Rock  
+- Explosion  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Fire Punch  
+- Ice Punch  
+
+Scizor (F) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Superpower  
+- Pursuit  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Kingdra (F) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Rest  
+- Outrage  
+- Waterfall  
+
+Flygon (F) @ Life Orb  
+Ability: Levitate  
+EVs: 80 Atk / 252 SpA / 176 Spe  
+Mild Nature  
+- Draco Meteor  
+- Earthquake  
+- Roost  
+- Fire Blast  
+
+
+=== [gen4ou] PDC Dump Team #114 ===
+
+Heatran (M) @ Life Orb  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Overheat  
+- Earth Power  
+- Hidden Power [Grass]  
+- Stealth Rock  
+
+Starmie @ Choice Scarf  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- Thunderbolt  
+- Ice Beam  
+- Trick  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Flash Cannon  
+- Explosion  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Outrage  
+- Dragon Dance  
+- Extreme Speed  
+- Earthquake  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Pursuit  
+- Bug Bite  
+
+Flygon (M) @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Fire Punch  
+
+
+=== [gen4ou] PDC Dump Team #115 ===
+
+Infernape (M) @ Focus Sash  
+Ability: Blaze  
+EVs: 224 Atk / 92 SpA / 192 Spe  
+Naive Nature  
+- Stealth Rock  
+- Overheat  
+- Close Combat  
+- U-turn  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Rapid Spin  
+- Thunderbolt  
+- Ice Beam  
+
+Scizor (M) @ Choice Band  
+Ability: Swarm  
+EVs: 248 HP / 252 Atk / 4 Def / 4 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Superpower  
+- Pursuit  
+
+Rotom-Mow @ Choice Scarf  
+Ability: Levitate  
+EVs: 80 HP / 216 SpA / 212 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hidden Power [Ice]  
+- Trick  
+
+Tyranitar (M) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Earthquake  
+- Ice Punch  
+
+Aerodactyl (M) @ Life Orb  
+Ability: Pressure  
+EVs: 72 HP / 236 Atk / 56 SpD / 144 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Taunt  
+- Roost  
+
+
+=== [gen4ou] PDC Dump Team #116 ===
+
+Tyranitar (F) @ Choice Band  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Aqua Tail  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Rapid Spin  
+- Recover  
+- Hydro Pump  
+- Reflect  
+
+Heatran (F) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Rash Nature  
+- Stealth Rock  
+- Flamethrower  
+- Hidden Power [Grass]  
+- Explosion  
+
+Venusaur (F) @ Black Sludge  
+Ability: Overgrow  
+EVs: 252 HP / 56 Def / 24 SpA / 176 SpD  
+Calm Nature  
+- Sleep Powder  
+- Leech Seed  
+- Hidden Power [Fire]  
+- Leaf Storm  
+
+Bronzong @ Macho Brace  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Trick Room  
+- Explosion  
+- Earthquake  
+- Gyro Ball  
+
+Aerodactyl (M) @ Life Orb  
+Ability: Pressure  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Roost  
+- Earthquake  
+- Stone Edge  
+- Taunt  
+
+
+=== [gen4ou] PDC Dump Team #117 ===
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Fire Punch  
+- Stealth Rock  
+- Thunder Wave  
+- Iron Head  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Rapid Spin  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Earthquake  
+- Dragon Dance  
+
+Snorlax (M) @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 Atk / 4 Def / 252 SpD  
+Adamant Nature  
+- Fire Punch  
+- Pursuit  
+- Body Slam  
+- Rest  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Substitute  
+- Will-O-Wisp  
+- Thunderbolt  
+- Pain Split  
+
+Gengar (M) @ Leftovers  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Focus Blast  
+- Thunderbolt  
+- Hidden Power [Fire]  
+
+
+=== [gen4ou] PDC Dump Team #118 ===
+
+Gallade @ Life Orb  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Stone Edge  
+- Zen Headbutt  
+- Shadow Sneak  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 232 HP / 240 SpA / 36 Spe  
+Modest Nature  
+- Leaf Storm  
+- Recover  
+- Thunder Wave  
+- Hidden Power [Fire]  
+
+Mamoswine (M) @ Choice Band  
+Ability: Snow Cloak  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Ice Fang  
+- Ice Shard  
+- Earthquake  
+- Stone Edge  
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Outrage  
+- U-turn  
+- Thunder Punch  
+- Earthquake  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 52 SpA / 204 Spe  
+Naughty Nature  
+- Agility  
+- Outrage  
+- Fire Blast  
+- Earthquake  
+
+Heatran (M) @ Passho Berry  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Fire Blast  
+- Explosion  
+- Earth Power  
+
+
+=== [gen4ou] PDC Dump Team #119 ===
+
+Azelf @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Stealth Rock  
+- Zen Headbutt  
+- Explosion  
+
+Jirachi @ Expert Belt  
+Ability: Serene Grace  
+EVs: 56 Atk / 200 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- Thunderbolt  
+- Psychic  
+- Calm Mind  
+
+Scizor (F) @ Choice Band  
+Ability: Technician  
+EVs: 200 HP / 252 Atk / 56 SpD  
+Adamant Nature  
+- Pursuit  
+- Superpower  
+- Bullet Punch  
+- U-turn  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Rapid Spin  
+- Thunderbolt  
+- Ice Beam  
+
+Snorlax (M) @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Rest  
+- Crunch  
+- Body Slam  
+- Curse  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Outrage  
+- Fire Punch  
+- Dragon Dance  
+
+
+=== [gen4ou] PDC Dump Team #120 ===
+
+Empoleon (M) @ Chople Berry  
+Ability: Torrent  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Hydro Pump  
+- Grass Knot  
+- Stealth Rock  
+- Aqua Jet  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Fire Blast  
+- Substitute  
+- Toxic  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Seed Bomb  
+- Focus Punch  
+- Spore  
+- Substitute  
+
+Dragonite (M) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 236 Def / 20 SpD  
+Bold Nature  
+- Thunder Wave  
+- Hidden Power [Fire]  
+- Grass Knot  
+- Recover  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 100 HP / 192 SpA / 216 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+
+=== [gen4ou] PDC Dump Team #121 ===
+
+Empoleon (M) @ Chople Berry  
+Ability: Torrent  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Modest Nature  
+- Hydro Pump  
+- Aqua Jet  
+- Stealth Rock  
+- Grass Knot  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Iron Head  
+- Ice Punch  
+- Thunder Wave  
+- Fire Punch  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Recover  
+- Grass Knot  
+- Calm Mind  
+- Hidden Power [Fire]  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+- Hydro Pump  
+
+Kingdra (M) @ Leftovers  
+Ability: Swift Swim  
+EVs: 92 Atk / 252 SpA / 164 Spe  
+Mild Nature  
+- Waterfall  
+- Hydro Pump  
+- Draco Meteor  
+- Rain Dance  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Roost  
+- Toxic  
+- Substitute  
+
+
+=== [gen4ou] PDC Dump Team #122 ===
+
+Dragonite (F) @ Life Orb  
+Ability: Inner Focus  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Roost  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 76 SpD / 184 Spe  
+Timid Nature  
+- Stealth Rock  
+- Leaf Storm  
+- Hidden Power [Fire]  
+- Recover  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Trick  
+- Iron Head  
+- Ice Punch  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 232 HP / 24 Def / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Dugtrio (M) @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Aerial Ace  
+- Sucker Punch  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 128 HP / 72 Def / 56 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hidden Power [Ice]  
+- Substitute  
+- Thunderbolt  
+
+
+=== [gen4ou] PDC Dump Team #123 ===
+
+Azelf @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Ice Punch  
+- Explosion  
+- Zen Headbutt  
+- U-turn  
+
+Heatran (M) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Will-O-Wisp  
+- Stealth Rock  
+- Fire Blast  
+
+Kingdra (M) @ Life Orb  
+Ability: Swift Swim  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Signal Beam  
+- Rain Dance  
+- Dragon Pulse  
+- Surf  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 224 Def / 32 Spe  
+Bold Nature  
+- Calm Mind  
+- Psychic  
+- Thunderbolt  
+- Wish  
+
+Flygon (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Thunder Punch  
+- U-turn  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Focus Blast  
+- Substitute  
+- Shadow Ball  
+- Pain Split  
+
+
+=== [gen4ou] PDC Dump Team #124 ===
+
+Tyranitar (F) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Stone Edge  
+- Earthquake  
+- Crunch  
+
+Gliscor (F) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Roost  
+- Taunt  
+- Earthquake  
+- Toxic  
+
+Bronzong @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 64 Atk / 192 SpD  
+Sassy Nature  
+- Payback  
+- Protect  
+- Earthquake  
+- Toxic  
+
+Clefable (M) @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Stealth Rock  
+- Soft-Boiled  
+- Seismic Toss  
+- Toxic  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Leaf Storm  
+- Recover  
+- Hidden Power [Fire]  
+- U-turn  
+
+Magnezone @ Leftovers  
+Ability: Magnet Pull  
+EVs: 212 HP / 184 SpA / 112 Spe  
+Modest Nature  
+- Thunderbolt  
+- Protect  
+- Hidden Power [Ice]  
+- Toxic  
+
+
+=== [gen4ou] PDC Dump Team #125 ===
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Trick  
+- Stealth Rock  
+- U-turn  
+- Iron Head  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Substitute  
+- Roost  
+- Toxic  
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Recover  
+- Thunderbolt  
+- Rapid Spin  
+
+Weavile (M) @ Life Orb  
+Ability: Pressure  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Jolly Nature  
+- Ice Shard  
+- Pursuit  
+- Low Kick  
+- Night Slash  
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Zen Headbutt  
+- Earthquake  
+- Explosion  
+- Bullet Punch  
+
+Flygon (M) @ Expert Belt  
+Ability: Levitate  
+EVs: 144 Atk / 252 SpA / 112 Spe  
+Naive Nature  
+- Draco Meteor  
+- Earthquake  
+- U-turn  
+- Fire Blast  
+
+
+=== [gen4ou] PDC Dump Team #126 ===
+
+Forretress (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Rapid Spin  
+- Payback  
+- Stealth Rock  
+- Spikes  
+
+Milotic (F) @ Leftovers  
+Ability: Marvel Scale  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Recover  
+- Haze  
+- Ice Beam  
+- Surf  
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Roost  
+- Taunt  
+- Earthquake  
+- Toxic  
+
+Venusaur (M) @ Black Sludge  
+Ability: Overgrow  
+EVs: 252 HP / 220 SpD / 36 Spe  
+Calm Nature  
+- Sleep Powder  
+- Sludge Bomb  
+- Leech Seed  
+- Hidden Power [Fire]  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 132 SpD / 128 Spe  
+Calm Nature  
+- Sleep Talk  
+- Roar  
+- Lava Plume  
+- Rest  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Sleep Talk  
+- Reflect  
+- Thunderbolt  
+- Rest  
+
+
+=== [gen4ou] PDC Dump Team #127 ===
+
+Swampert (F) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 252 Def / 4 Spe  
+Relaxed Nature  
+- Earthquake  
+- Ice Beam  
+- Stealth Rock  
+- Roar  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 44 HP / 212 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Shadow Ball  
+- Charge Beam  
+- Substitute  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Calm Mind  
+- Hidden Power [Electric]  
+- Ice Beam  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Flamethrower  
+- Earth Power  
+- Hidden Power [Ice]  
+- Explosion  
+
+Roserade (M) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 20 SpA / 236 SpD  
+Calm Nature  
+- Sleep Powder  
+- Toxic Spikes  
+- Hidden Power [Fire]  
+- Energy Ball  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 56 Atk / 200 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Superpower  
+- Extreme Speed  
+- Fire Blast  
+
+
+=== [gen4ou] PDC Dump Team #128 ===
+
+Infernape (M) @ Focus Sash  
+Ability: Blaze  
+EVs: 60 Atk / 252 SpA / 196 Spe  
+Naive Nature  
+- Close Combat  
+- Fire Blast  
+- Stealth Rock  
+- Endeavor  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Stone Edge  
+- Aqua Tail  
+
+Dugtrio (M) @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Stone Edge  
+- Pursuit  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 76 HP / 252 SpA / 180 Spe  
+Timid Nature  
+- Leaf Storm  
+- Recover  
+- U-turn  
+- Hidden Power [Fire]  
+
+Empoleon (F) @ Shuca Berry  
+Ability: Torrent  
+EVs: 24 HP / 252 SpA / 232 Spe  
+Modest Nature  
+- Ice Beam  
+- Hydro Pump  
+- Agility  
+- Grass Knot  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Hidden Power [Ice]  
+- Roost  
+- Thunderbolt  
+- Heat Wave  
+
+
+=== [gen4ou] PDC Dump Team #129 ===
+
+Hippowdon (M) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 144 Def / 108 SpD / 4 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Roar  
+- Slack Off  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 248 Def / 8 Spe  
+Bold Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Rest  
+- Sleep Talk  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 248 Def / 8 Spe  
+Impish Nature  
+- Waterfall  
+- Rest  
+- Sleep Talk  
+- Roar  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 252 SpD / 4 Spe  
+Bold Nature  
+- Seismic Toss  
+- Soft-Boiled  
+- Toxic  
+- Wish  
+
+Forretress (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Spikes  
+- Toxic Spikes  
+- Rapid Spin  
+- Payback  
+
+Heatran (F) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 212 SpD / 44 Spe  
+Calm Nature  
+- Earth Power  
+- Flamethrower  
+- Roar  
+- Protect  
+
+
+=== [gen4ou] PDC Dump Team #130 ===
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Dragon Dance  
+- Stone Edge  
+- Crunch  
+
+Gengar (M) @ Life Orb  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Shadow Ball  
+- Focus Blast  
+- Explosion  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Naive Nature  
+- Thunderbolt  
+- Flash Cannon  
+- Explosion  
+- Hidden Power [Fire]  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Thunder Punch  
+- Bullet Punch  
+
+Cradily (M) @ Leftovers  
+Ability: Suction Cups  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Swords Dance  
+- Rock Slide  
+- Earthquake  
+- Recover  
+
+Gyarados (M) @ Sitrus Berry  
+Ability: Intimidate  
+EVs: 136 HP / 176 Atk / 196 Spe  
+Adamant Nature  
+- Waterfall  
+- Dragon Dance  
+- Stone Edge  
+- Earthquake  
+
+
+=== [gen4ou] PDC Dump Team #131 ===
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Earthquake  
+- Pursuit  
+- Stone Edge  
+
+Gliscor (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Taunt  
+- Roost  
+
+Vaporeon (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 212 HP / 252 Def / 44 SpD  
+Bold Nature  
+- Surf  
+- Toxic  
+- Wish  
+- Protect  
+
+Forretress (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Toxic Spikes  
+- Rapid Spin  
+- Payback  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Rest  
+- Sleep Talk  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 244 HP / 252 SpD / 12 Spe  
+Calm Nature  
+- Stealth Rock  
+- Lava Plume  
+- Protect  
+- Roar  
+
+
+=== [gen4ou] PDC Dump Team #132 ===
+
+Heatran (M) @ Life Orb  
+Ability: Flash Fire  
+EVs: 36 HP / 252 SpA / 220 Spe  
+Modest Nature  
+- Stealth Rock  
+- Earth Power  
+- Hidden Power [Grass]  
+- Overheat  
+
+Breloom (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 236 HP / 248 Def / 24 Spe  
+Impish Nature  
+- Leech Seed  
+- Substitute  
+- Focus Punch  
+- Spore  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Rash Nature  
+- Roost  
+- Superpower  
+- Draco Meteor  
+- Fire Blast  
+
+Suicune @ Life Orb  
+Ability: Pressure  
+EVs: 8 HP / 252 SpA / 248 Spe  
+Timid Nature  
+- Hydro Pump  
+- Calm Mind  
+- Hidden Power [Electric]  
+- Ice Beam  
+
+Scizor (M) @ Choice Scarf  
+Ability: Technician  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Jolly Nature  
+- U-turn  
+- Superpower  
+- Bullet Punch  
+- Pursuit  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 128 HP / 76 Def / 84 SpA / 220 Spe  
+Timid Nature  
+- Thunderbolt  
+- Calm Mind  
+- Hidden Power [Ice]  
+- Substitute  
+
+
+=== [gen4ou] PDC Dump Team #133 ===
+
+Heatran (M) @ Life Orb  
+Ability: Flash Fire  
+EVs: 36 HP / 252 SpA / 220 Spe  
+Modest Nature  
+- Overheat  
+- Stealth Rock  
+- Hidden Power [Grass]  
+- Earth Power  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 216 HP / 40 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Trick  
+- Shadow Ball  
+
+Roserade (M) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Spikes  
+- Stun Spore  
+- Energy Ball  
+- Hidden Power [Fire]  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 248 Def / 12 Spe  
+Impish Nature  
+- Sleep Talk  
+- Rest  
+- Waterfall  
+- Roar  
+
+Empoleon (M) @ Life Orb  
+Ability: Torrent  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- Ice Beam  
+- Grass Knot  
+- Agility  
+
+Tyranitar (M) @ Expert Belt  
+Ability: Sand Stream  
+EVs: 56 Atk / 252 SpA / 200 Spe  
+Naive Nature  
+- Flamethrower  
+- Ice Beam  
+- Superpower  
+- Crunch  
+
+
+=== [gen4ou] PDC Dump Team #134 ===
+
+Zapdos @ Choice Specs  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Heat Wave  
+- U-turn  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Aerial Ace  
+- Earthquake  
+- Stone Edge  
+- Beat Up  
+
+Rotom (Rotom-Wash) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Trick  
+- Shadow Ball  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 160 HP / 252 Def / 96 SpA  
+Bold Nature  
+- Seismic Toss  
+- Soft-Boiled  
+- Flamethrower  
+- Toxic  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 36 HP / 252 SpA / 220 Spe  
+Timid Nature  
+- Grass Knot  
+- Calm Mind  
+- Hidden Power [Fire]  
+- Psychic  
+
+Skarmory (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Stealth Rock  
+- Roost  
+- Whirlwind  
+
+
+=== [gen4ou] PDC Dump Team #135 ===
+
+Crobat (M) @ Black Sludge  
+Ability: Inner Focus  
+EVs: 252 HP / 100 Atk / 156 Spe  
+Jolly Nature  
+- U-turn  
+- Brave Bird  
+- Roost  
+- Taunt  
+
+Snorlax (F) @ Leftovers  
+Ability: Thick Fat  
+EVs: 188 HP / 104 Def / 216 SpD  
+Careful Nature  
+- Crunch  
+- Body Slam  
+- Curse  
+- Rest  
+
+Swampert (M) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 216 Def / 40 SpD  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Ice Punch  
+- Protect  
+
+Rotom (Rotom-Wash) @ Choice Scarf  
+Ability: Levitate  
+EVs: 216 HP / 40 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Shadow Ball  
+- Trick  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Rapid Spin  
+- Hydro Pump  
+- Recover  
+- Reflect  
+
+Skarmory (M) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 16 Def / 240 SpD  
+Impish Nature  
+- Whirlwind  
+- Brave Bird  
+- Spikes  
+- Roost  
+
+
+=== [gen4ou] PDC Dump Team #136 ===
+
+Metagross @ Occa Berry  
+Ability: Clear Body  
+EVs: 200 HP / 232 Atk / 44 SpD / 32 Spe  
+Adamant Nature  
+- Earthquake  
+- Meteor Mash  
+- Explosion  
+- Stealth Rock  
+
+Flygon (F) @ Life Orb  
+Ability: Levitate  
+EVs: 80 Atk / 248 SpA / 180 Spe  
+Naive Nature  
+- Earthquake  
+- Draco Meteor  
+- Fire Blast  
+- Roost  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 156 HP / 136 SpA / 216 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 244 Atk / 16 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Superpower  
+- Pursuit  
+
+Weavile (M) @ Life Orb  
+Ability: Pressure  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Jolly Nature  
+- Night Slash  
+- Pursuit  
+- Ice Shard  
+- Low Kick  
+
+Infernape (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- Mach Punch  
+- U-turn  
+- Overheat  
+- Close Combat  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6759 62 Likes 39 Score posted by SOMALIA ===
+
+ANDRE 3000 (Metagross) @ Focus Sash  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Bullet Punch  
+- Meteor Mash  
+- Explosion  
+- Stealth Rock  
+
+BIGGIE (Dusknoir) @ Expert Belt  
+Ability: Pressure  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Ice Punch  
+- Fire Punch  
+- Shadow Sneak  
+- Earthquake  
+
+KANYE WEST (Dugtrio) @ Focus Sash  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Aerial Ace  
+- Stone Edge  
+- Toxic  
+
+STORM (Jirachi) @ Occa Berry  
+Ability: Serene Grace  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Hidden Power [Ground]  
+- Psychic  
+- Iron Head  
+
+TUPAC (Gyarados) @ Choice Band  
+Ability: Intimidate  
+EVs: 24 HP / 252 Atk / 4 SpD / 228 Spe  
+Adamant Nature  
+- Waterfall  
+- Sleep Talk  
+- Earthquake  
+- Stone Edge  
+
+EMINEM (Scizor) @ Leftovers  
+Ability: Technician  
+EVs: 252 HP / 64 Atk / 44 Def / 140 SpD / 8 Spe  
+Adamant Nature  
+- Bug Bite  
+- Bullet Punch  
+- Swords Dance  
+- Roost  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6760 39 Likes 6 Score posted by Foggi ===
+
+Bronzong @ Lum Berry  
+Ability: Heatproof  
+EVs: 248 HP / 252 Atk / 4 Def / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+
+Gengar @ Life Orb  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Shadow Ball  
+- Focus Blast  
+- Explosion  
+- Hidden Power [Fire]  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 252 Atk / 44 SpD / 212 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Draco Meteor  
+- Surf  
+- Dragon Pulse  
+
+Flygon (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Outrage  
+- Earthquake  
+- Thunder Punch  
+
+Lucario @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Swords Dance  
+- Bullet Punch  
+- Extreme Speed  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6761 39 Likes 6 Score posted by Foggi ===
+
+Bronzong @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 84 Atk / 80 Def / 92 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Gyro Ball  
+- Earthquake  
+- Explosion  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Overheat  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Shadow Ball  
+
+Dugtrio (M) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Pursuit  
+- Aerial Ace  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 120 HP / 192 SpA / 196 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Roserade @ Black Sludge  
+Ability: Natural Cure  
+EVs: 120 HP / 156 SpA / 232 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Toxic Spikes  
+- Leaf Storm  
+- Sleep Powder  
+- Hidden Power [Fire]  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Protect  
+- Calm Mind  
+- Hidden Power [Ice]  
+- Thunderbolt  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6762 39 Likes 6 Score posted by Foggi ===
+
+Skarmory (M) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Whirlwind  
+- Brave Bird  
+- Roost  
+- Spikes  
+
+Roserade (F) @ Black Sludge  
+Ability: Natural Cure  
+EVs: 248 HP / 124 Def / 136 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Toxic Spikes  
+- Sleep Powder  
+- Grass Knot  
+- Hidden Power [Fire]  
+
+Tyranitar @ Passho Berry  
+Ability: Sand Stream  
+EVs: 48 HP / 104 Atk / 40 SpA / 68 SpD / 248 Spe  
+Lonely Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Superpower  
+
+Flygon @ Life Orb  
+Ability: Levitate  
+EVs: 52 Atk / 204 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Fire Blast  
+- Earthquake  
+- Outrage  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Shadow Ball  
+- Overheat  
+- Hidden Power [Ice]  
+
+Milotic @ Leftovers  
+Ability: Marvel Scale  
+Shiny: Yes  
+EVs: 248 HP / 244 Def / 16 SpD  
+Calm Nature  
+IVs: 3 Atk / 30 SpA  
+- Surf  
+- Hidden Power [Electric]  
+- Recover  
+- Haze  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6763 39 Likes 6 Score posted by Foggi ===
+
+Roserade (F) @ Focus Sash  
+Ability: Poison Point  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Sleep Powder  
+- Toxic Spikes  
+- Leaf Storm  
+- Hidden Power [Ground]  
+
+Tyranitar @ Passho Berry  
+Ability: Sand Stream  
+EVs: 48 HP / 104 Atk / 40 SpA / 68 SpD / 248 Spe  
+Lonely Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Superpower  
+
+Gengar @ Life Orb  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Focus Blast  
+- Substitute  
+- Pain Split  
+
+Flygon @ Life Orb  
+Ability: Levitate  
+EVs: 52 Atk / 204 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Fire Blast  
+- Earthquake  
+- Outrage  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 32 HP / 248 SpA / 228 Spe  
+Modest Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6764 39 Likes 6 Score posted by Foggi ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 16 HP / 252 SpA / 240 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- U-turn  
+- Roost  
+
+Tyranitar @ Passho Berry  
+Ability: Sand Stream  
+EVs: 48 HP / 104 Atk / 40 SpA / 68 SpD / 248 Spe  
+Lonely Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Superpower  
+
+Gengar (M) @ Life Orb  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Explosion  
+- Focus Blast  
+- Shadow Ball  
+- Hidden Power [Fire]  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Spore  
+- Mach Punch  
+- Seed Bomb  
+- Superpower  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 32 HP / 248 SpA / 228 Spe  
+Modest Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6765 39 Likes 6 Score posted by Foggi ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 248 HP / 44 SpD / 216 Spe  
+Jolly Nature  
+- Taunt  
+- Explosion  
+- Stealth Rock  
+- U-turn  
+
+Dragonite (M) @ Life Orb  
+Ability: Inner Focus  
+Shiny: Yes  
+EVs: 24 HP / 136 Atk / 252 SpA / 96 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Superpower  
+- Extreme Speed  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+Shiny: Yes  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Spore  
+- Mach Punch  
+- Seed Bomb  
+- Superpower  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+Shiny: Yes  
+EVs: 156 HP / 72 Atk / 84 Def / 196 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Bounce  
+- Taunt  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 16 HP / 232 Atk / 128 SpD / 132 Spe  
+Adamant Nature  
+- Superpower  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Heatran (M) @ Choice Scarf  
+Ability: Flash Fire  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Earth Power  
+- Explosion  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6766 39 Likes 6 Score posted by Foggi ===
+
+Flygon @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+
+Scizor (M) @ Choice Band  
+Ability: Technician  
+EVs: 224 HP / 252 Atk / 32 Spe  
+Adamant Nature  
+- U-turn  
+- Superpower  
+- Quick Attack  
+- Bullet Punch  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Spore  
+- Mach Punch  
+- Seed Bomb  
+- Superpower  
+
+Heatran @ Passho Berry  
+Ability: Flash Fire  
+EVs: 44 HP / 212 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Electric]  
+- Stealth Rock  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+
+Tyranitar (F) @ Shuca Berry  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Ice Punch  
+- Earthquake  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6767 39 Likes 6 Score posted by Foggi ===
+
+Gliscor @ Leftovers  
+Ability: Hyper Cutter  
+EVs: 248 HP / 44 Def / 216 Spe  
+Jolly Nature  
+- Taunt  
+- U-turn  
+- Earthquake  
+- Stealth Rock  
+
+Bronzong @ Choice Band  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Gyro Ball  
+- Explosion  
+- Trick  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 24 HP / 252 Atk / 100 SpD / 132 Spe  
+Adamant Nature  
+- Superpower  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rapid Spin  
+- Surf  
+- Ice Beam  
+- Thunderbolt  
+
+Metagross @ Life Orb  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Agility  
+- Zen Headbutt  
+- Earthquake  
+- Ice Punch  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Shadow Ball  
+- Overheat  
+- Hidden Power [Ice]  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6768 39 Likes 6 Score posted by Foggi ===
+
+Azelf @ Colbur Berry  
+Ability: Levitate  
+EVs: 8 HP / 140 Atk / 144 SpD / 216 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Taunt  
+- Thunder Wave  
+- Explosion  
+
+Roserade (F) @ Black Sludge  
+Ability: Natural Cure  
+EVs: 248 HP / 124 Def / 136 SpD  
+Calm Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Toxic Spikes  
+- Spikes  
+- Grass Knot  
+- Hidden Power [Fire]  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 24 HP / 252 Atk / 100 SpD / 132 Spe  
+Adamant Nature  
+- Superpower  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Milotic @ Leftovers  
+Ability: Marvel Scale  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]  
+- Recover  
+
+Flygon @ Life Orb  
+Ability: Levitate  
+EVs: 52 Atk / 204 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Fire Blast  
+- Earthquake  
+- Outrage  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Shadow Ball  
+- Overheat  
+- Hidden Power [Ice]  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6769 39 Likes 6 Score posted by Foggi ===
+
+Bronzong @ Lum Berry  
+Ability: Heatproof  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Stealth Rock  
+- Earthquake  
+- Explosion  
+
+Dragonite (M) @ Choice Band  
+Ability: Inner Focus  
+EVs: 48 HP / 252 Atk / 208 Spe  
+Adamant Nature  
+- Outrage  
+- Dragon Claw  
+- Extreme Speed  
+- Earthquake  
+
+Mamoswine (M) @ Life Orb  
+Ability: Oblivious  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- Earthquake  
+- Stone Edge  
+- Superpower  
+
+Magnezone @ Leftovers  
+Ability: Magnet Pull  
+EVs: 140 HP / 252 SpA / 116 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Thunder Wave  
+- Substitute  
+- Hidden Power [Fire]  
+
+Flygon @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 Atk / 6 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+
+Kingdra (M) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Rest  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6770 39 Likes 6 Score posted by Foggi ===
+
+Vaporeon @ Choice Specs  
+Ability: Water Absorb  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Hidden Power [Electric]  
+- Ice Beam  
+- Baton Pass  
+
+Bronzong @ Lum Berry  
+Ability: Levitate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Stealth Rock  
+- Payback  
+- Explosion  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 24 HP / 252 Atk / 100 SpD / 132 Spe  
+Adamant Nature  
+- Superpower  
+- Crunch  
+- Stone Edge  
+- Pursuit  
+
+Gyarados (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Ice Fang  
+- Earthquake  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 108 HP / 132 Atk / 80 Def / 188 Spe  
+Adamant Nature  
+- Spore  
+- Superpower  
+- Seed Bomb  
+- Mach Punch  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 30 Atk / 30 Def  
+- Hydro Pump  
+- Will-O-Wisp  
+- Thunderbolt  
+- Shadow Ball  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6771 39 Likes 6 Score posted by Foggi ===
+
+Jirachi @ Occa Berry  
+Ability: Serene Grace  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Timid Nature  
+- Stealth Rock  
+- Psychic  
+- Thunderbolt  
+- Hidden Power [Ground]  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Overheat  
+- Trick  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 176 HP / 252 Atk / 80 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Stone Edge  
+- Superpower  
+
+Kingdra (M) @ Mystic Water  
+Ability: Swift Swim  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+IVs: 3 Atk / 30 SpA  
+- Rain Dance  
+- Hydro Pump  
+- Draco Meteor  
+- Hidden Power [Electric]  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 236 HP / 176 Atk / 16 Def / 4 SpD / 76 Spe  
+Adamant Nature  
+- Spore  
+- Mach Punch  
+- Seed Bomb  
+- Superpower  
+
+Empoleon (M) @ Shuca Berry  
+Ability: Torrent  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+- Hydro Pump  
+- Ice Beam  
+- Grass Knot  
+- Agility  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6772 39 Likes 6 Score posted by Foggi ===
+
+Starmie @ Choice Specs  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Rapid Spin  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+
+Heatran @ Passho Berry  
+Ability: Flash Fire  
+EVs: 44 HP / 212 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Electric]  
+- Stealth Rock  
+
+Dragonite @ Choice Band  
+Ability: Inner Focus  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+- Outrage  
+- Dragon Claw  
+- Extreme Speed  
+- Fire Punch  
+
+Shaymin @ Occa Berry  
+Ability: Natural Cure  
+EVs: 40 HP / 248 SpA / 220 Spe  
+Timid Nature  
+- Seed Flare  
+- Earth Power  
+- Hidden Power [Ice]  
+- Healing Wish  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Iron Head  
+- Fire Punch  
+- Ice Punch  
+
+Kingdra (M) @ Chesto Berry  
+Ability: Swift Swim  
+EVs: 144 HP / 160 Atk / 40 SpD / 164 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Rest  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6773 39 Likes 6 Score posted by Foggi ===
+
+Starmie @ Life Orb  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Rapid Spin  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Overheat  
+- Trick  
+
+Breloom @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Spore  
+- Mach Punch  
+- Seed Bomb  
+- Superpower  
+
+Tyranitar @ Passho Berry  
+Ability: Sand Stream  
+EVs: 48 HP / 104 Atk / 40 SpA / 68 SpD / 248 Spe  
+Lonely Nature  
+- Stealth Rock  
+- Crunch  
+- Fire Blast  
+- Superpower  
+
+Bronzong @ Choice Band  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Gyro Ball  
+- Explosion  
+- Trick  
+
+Dragonite (F) @ Lum Berry  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+
+
+=== [gen4ou] Ruins of Alph/Smogon Nr. 6774 39 Likes 6 Score posted by Foggi ===
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Jolly Nature  
+- Body Slam  
+- Stealth Rock  
+- U-turn  
+- Iron Head  
+
+Gengar @ Life Orb  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Shadow Ball  
+- Focus Blast  
+- Explosion  
+- Hidden Power [Fire]  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 252 Atk / 44 SpD / 212 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Kingdra @ Choice Scarf  
+Ability: Swift Swim  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Hydro Pump  
+- Draco Meteor  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Abomasnow @ Expert Belt  
+Ability: Snow Warning  
+EVs: 252 Atk / 96 SpA / 160 Spe  
+Lonely Nature  
+- Wood Hammer  
+- Ice Shard  
+- Earthquake  
+- Hidden Power [Fire]  
+
+Lucario @ Life Orb  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Swords Dance  
+- Bullet Punch  
+- Extreme Speed  
+
